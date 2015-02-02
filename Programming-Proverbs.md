@@ -1,0 +1,5 @@
+1. [我最喜欢的10条编程语录](http://blog.jobbole.com/18399/ "")
+2. [我最喜欢的10条编程语录(英文版)](http://www.kevinwilliampang.com/2008/10/07/10-programming-proverbs-every-developer-should-know/ "")
+3. [每个程序员都应该了解的知识有哪些](http://www.open-open.com/news/view/e215d3 "")
+4. [成为高级程序员的 10 个步骤](http://www.open-open.com/bbs/view/1421200011781 "")
+5. [码农和程序员之间的5个关键差异](http://www.open-open.com/news/view/1af0ae8 "")

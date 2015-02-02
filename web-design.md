@@ -1,0 +1,6 @@
+1. [17 crucial web design trends for 2015](https://econsultancy.com/blog/65898-17-crucial-web-design-trends-for-2015"")
+2. [40 Free and Essential Web Design and Development Books from Google](http://speckyboy.com/2009/07/06/40-free-and-essential-web-design-and-development-books-from-google/ "")
+3. [30 个最好的免费响应式 HTML5 CSS3 网站模板](http://www.open-open.com/news/view/1f61b93 "")
+4. [30 Free Responsive HTML Templates](http://speckyboy.com/2014/03/07/30-free-responsive-html-templates/ "")
+5. [15 More Responsive CSS Frameworks & Boilerplates Worth Considering](http://speckyboy.com/2012/08/21/15-more-responsive-css-frameworks-boilerplates-worth-considering/"")
+6. [20 Free ‘Flat’ GUI Templates](http://speckyboy.com/2013/04/03/flat-gui-templates/"")
