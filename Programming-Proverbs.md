@@ -4,6 +4,7 @@
 4. [成为高级程序员的 10 个步骤](http://www.open-open.com/bbs/view/1421200011781 "")
 5. [码农和程序员之间的5个关键差异](http://www.open-open.com/news/view/1af0ae8 "")
 6. [国外程序员推荐的免费编程书籍资源](http://blog.jobbole.com/5200/ "")
+
 ###编程范式
 1.[Design Patterns in Dynamic Programming ](http://norvig.com/design-patterns/ppframe.htm "")
 ####函数式
