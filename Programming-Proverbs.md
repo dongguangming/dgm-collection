@@ -7,11 +7,14 @@
 
 ###编程范式
 1.[Design Patterns in Dynamic Programming ](http://norvig.com/design-patterns/ppframe.htm "")
+
 ####函数式
 1. [Functional Thinking](http://it-ebooks.info/book/3592/ "")
 1. [Functional thinking: Functional design patterns, Part 1](http://www.ibm.com/developerworks/library/j-ft10/ "")
+
 ####Lisp
 2. [ANSI Common Lisp 中文版](http://acl.readthedocs.org/en/latest/index.html "")
+
 ####Haskell 
 1. [haskell官网](https://www.haskell.org/ "")
 1. [http://www.haskellcn.org/](http://www.haskellcn.org/ "")
