@@ -4,6 +4,8 @@
 1. [Javascript 装载和执行](http://coolshell.cn/articles/9749.html "")
 2. [Lazy Loading Asyncronous Javascript](http://friendlybit.com/js/lazy-loading-asyncronous-javascript/ "")
 2. [this in Javascript](http://bjorn.tipling.com/all-this "")
+3. [Object-oriented Programming in JavaScript](http://eloquentjavascript.net/1st_edition/chapter8.html "")
+4. [OOP in JS, Part 1 : Public/Private Variables and Methods](http://phrogz.net/JS/classes/OOPinJS.html "")
 2. [深刻理解JavaScript基于原型的面向对象](http://www.iteye.com/topic/1126635 "")
 1. [JavaScript中的原型和继承](http://www.admin10000.com/document/4343.html "")
 2. [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/index.html#resources "")
@@ -56,3 +58,4 @@
 
 ###good javascrip website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
+2. [Eloquent JavaScript](http://eloquentjavascript.net/1st_edition/ "")
