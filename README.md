@@ -1,5 +1,5 @@
 # dgm-collection
-我收集到的关于编程开发的好资料
+我董广明收集到的关于编程开发的好资料
 
 1. html(5)资料： https://github.com/dongguangming/dgm-collection/blob/master/html(5).md
 2. css(3)资料： https://github.com/dongguangming/dgm-collection/blob/master/css(3).md
