@@ -58,4 +58,7 @@
 
 ###good javascrip website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
+2. [dailyjs](http://dailyjs.com/ "")
 2. [Eloquent JavaScript](http://eloquentjavascript.net/1st_edition/ "")
+3. [JavaScript之父](http://www.aminutewithbrendan.com/ "")
+4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")

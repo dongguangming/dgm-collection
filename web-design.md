@@ -10,6 +10,9 @@
 6. [20 Free ‘Flat’ GUI Templates](http://speckyboy.com/2013/04/03/flat-gui-templates/"")
 
 ###Web developer
+1. [Github上最受关注的前端大牛 快来膜拜吧！](http://www.admin10000.com/document/4856.html "")
+2. [很多前端资源](http://www.webresourcesdepot.com/ "")
+3. [Web标准推广人](http://meyerweb.com/ "")
 1. [Lockless Performance](http://locklessinc.com/ "")
 
 ###web design website

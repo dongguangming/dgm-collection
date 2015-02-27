@@ -7,3 +7,6 @@
 5. [GitHub的样式 & CSS风格指南](https://github.com/styleguide/css "")
 6. [GitHub使用的CSS替代品SCSS](https://github.com/nex3/sass "")
 7. [Github使用的文档框架KSS](https://github.com/kneath/kss "")
+8. [25 个超棒的CSS背景](http://www.php100.com/html/webkaifa/DIV_CSS/2012/0110/9644.html "")
+###工具
+1. [2014年20款最好的CSS工具 ](http://www.admin10000.com/document/4578.html "")
