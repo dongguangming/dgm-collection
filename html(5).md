@@ -36,6 +36,7 @@
 1. [html5rocks](http://www.html5rocks.com/zh/ "HTML5 Rocks is a Google logo project.")
 2. [Getting window size and scroll bars position in JavaScript/DHTML](https://www.softcomplex.com/docs/get_window_size_and_scrollbar_position.html "")
 3. [htmlwidgets](http://www.htmlwidgets.org/ "")
+4. [html5gameengine](http://html5gameengine.com/ "")
 
 ###html模板
 1. [GitHub的标记 & 模板风格指南](https://github.com/styleguide/templates "")

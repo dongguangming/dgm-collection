@@ -56,9 +56,11 @@
 6. [GitHub的行为 & JavaScript风格指南](https://github.com/styleguide/javascript "")
 7. [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript "")
 
-###good javascrip website
+###good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")
+3. [JavaScript.isSexy](http://javascriptissexy.com/ "")
 2. [Eloquent JavaScript](http://eloquentjavascript.net/1st_edition/ "")
 3. [JavaScript之父](http://www.aminutewithbrendan.com/ "")
+4. [JavaScript The Good Parts book'author website](http://www.crockford.com/ "")
 4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")
