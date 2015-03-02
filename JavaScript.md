@@ -56,6 +56,10 @@
 6. [GitHub的行为 & JavaScript风格指南](https://github.com/styleguide/javascript "")
 7. [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript "")
 
+###JavaScript库
+1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")
+2. [25 Highly Useful AngularJS Tools for Web Developers](http://devzum.com/2015/02/28/bestl-angularjs-tools/ "")
+
 ###good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")

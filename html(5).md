@@ -37,6 +37,7 @@
 2. [Getting window size and scroll bars position in JavaScript/DHTML](https://www.softcomplex.com/docs/get_window_size_and_scrollbar_position.html "")
 3. [htmlwidgets](http://www.htmlwidgets.org/ "")
 4. [html5gameengine](http://html5gameengine.com/ "")
+5. [11 Essential HTML5 Animation Tools for Designers](http://devzum.com/2015/02/21/best-html5-animation-tools-for-designers/ "")
 
 ###html模板
 1. [GitHub的标记 & 模板风格指南](https://github.com/styleguide/templates "")
@@ -53,6 +54,10 @@
 4. [16 Recommended 3D Game Engines](http://www.worldofleveldesign.com/categories/level_design_tutorials/recommended-game-engines.php "")
 4. [Write a 3D Soft Engine from Scratch](http://www.sitepoint.com/series/write-a-3d-soft-engine-from-scratch/ "")
 5. [Let’s Build a 3D Graphics Software Engine](http://gamedevelopment.tutsplus.com/series/lets-build-a-3d-graphics-software-engine--gamedev-12718 "")
+
+###游戏开发
+1. [10 Best Online Resources That Help You to Learn Game Development](http://devzum.com/2015/02/23/best-online-resources-for-game-development/ "")
+
 
 ###在线编码工具
 2. [codepen.io](http://codepen.io/dongguangming/activity/ "")
