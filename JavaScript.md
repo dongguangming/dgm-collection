@@ -6,7 +6,9 @@
 2. [this in Javascript](http://bjorn.tipling.com/all-this "")
 3. [Object-oriented Programming in JavaScript](http://eloquentjavascript.net/1st_edition/chapter8.html "")
 4. [OOP in JS, Part 1 : Public/Private Variables and Methods](http://phrogz.net/JS/classes/OOPinJS.html "")
+5. [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/ "")
 2. [深刻理解JavaScript基于原型的面向对象](http://www.iteye.com/topic/1126635 "")
+3. [Simple JavaScript Inheritance](http://ejohn.org/blog/simple-javascript-inheritance/ "")
 1. [JavaScript中的原型和继承](http://www.admin10000.com/document/4343.html "")
 2. [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/index.html#resources "")
 2. [Javascript 面向对象编程](http://coolshell.cn/articles/6441.html "")
@@ -60,6 +62,20 @@
 1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")
 2. [25 Highly Useful AngularJS Tools for Web Developers](http://devzum.com/2015/02/28/bestl-angularjs-tools/ "")
 
+###JavaScript Architecture
+1. [2015 年 JS 应用架构趋势](http://www.oschina.net/translate/javascript-application-architecture-on-the-road-to-2015 "")
+1. [JavaScript Application Architecture On The Road To 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b    "")
+2. [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/ "")
+1. [Scalable JavaScript Application Architecture](http://www.microsoft.com/en-GB/developers/articles/scalable-javascript-application-architecture "")
+2. [JavaScript Architecture for the 23rd Century](http://modernweb.com/2014/10/15/javascript-architecture-23rd-century/ "")
+3. [A Full Javascript Architecture, Part One - NodeJS](http://blog.zenika.com/index.php?post/2011/04/10/NodeJS "")
+4. [MVC Architecture for JavaScript Applications](http://michaux.ca/articles/mvc-architecture-for-javascript-applications "")
+5. [BACKBONE.JS FOR LARGE SCALE APPLICATIONS – UI ARCHITECTURE]("http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/ "")
+6. [scalable-javascript-architecture](https://github.com/aranm/scalable-javascript-architecture "")
+7. [Resources On Scalable JavaScript Application Architecture](https://github.com/aurajs/aura/wiki/Resources-On-Scalable-JavaScript-Application-Architecture "")
+8. [getting-to-know-flux-the-react-js-architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture "")
+9. [基于HTML5和Javascript的移动应用架构](http://www.infoq.com/cn/articles/mobile-architecture-html5-javascript "")
+
 ###good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")
@@ -68,3 +84,4 @@
 3. [JavaScript之父](http://www.aminutewithbrendan.com/ "")
 4. [JavaScript The Good Parts book'author website](http://www.crockford.com/ "")
 4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")
+5. [JavaScript Language](http://michaux.ca/ "")

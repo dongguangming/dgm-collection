@@ -12,6 +12,8 @@
 1. [Web + VR = WebVR](http://webglvr.tumblr.com/ "")
 2. [Web VR](http://www.meetup.com/Web-VR/ "")
 3. [CodeChisel3D---Live programming with three.js and webVR](http://robert.kra.hn/projects/live-programming-with-three-and-webvr "")
+
+
 ###Nginx
 1. [Guide to Nginx + SSL + SPDY](https://www.mare-system.de/guide-to-nginx-ssl-spdy-hsts/ "")
 2. [配置HTTPS服务器](http://nginx.org/cn/docs/http/configuring_https_servers.html "")
@@ -19,6 +21,9 @@
 ###Web性能
 1. [HTTP vs HTTPS Test](https://www.httpvshttps.com/"")
 2. [httparchive.org](http://httparchive.org/index.php "")
+
+###Software Architect
+1. [You Want to Become a Software Architect? Here is Your Reading List!](http://java.dzone.com/articles/you-want-become-software "")
 
 ###linux
 1. [GNU make](https://www.gnu.org/software/make/manual/make.html "")
