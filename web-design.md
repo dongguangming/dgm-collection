@@ -8,12 +8,14 @@
 4. [30 Free Responsive HTML Templates](http://speckyboy.com/2014/03/07/30-free-responsive-html-templates/ "")
 5. [15 More Responsive CSS Frameworks & Boilerplates Worth Considering](http://speckyboy.com/2012/08/21/15-more-responsive-css-frameworks-boilerplates-worth-considering/"")
 6. [20 Free ‘Flat’ GUI Templates](http://speckyboy.com/2013/04/03/flat-gui-templates/"")
+7. [向设计师分享30个免费的扁平化风格设计素材](http://www.admin10000.com/document/2680.html "")
 
 ###Web developer
 1. [Github上最受关注的前端大牛 快来膜拜吧！](http://www.admin10000.com/document/4856.html "")
 2. [很多前端资源](http://www.webresourcesdepot.com/ "")
 3. [Web标准推广人](http://meyerweb.com/ "")
 1. [Lockless Performance](http://locklessinc.com/ "")
+2. [Another 20 Docs and Guides for Front-End Developers](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/ "")
 
 ###web design website
 1. [uifaces.com](http://uifaces.com/ "")
@@ -26,3 +28,7 @@
 5. [designcrawl](http://www.designcrawl.com/ "")
 6. [awesome Sketch](https://github.com/diessica/awesome-sketch "")
 7. [designposts.net](http://designposts.net/ "")
+8. [web-designs in techandall.com](http://www.techandall.com/category/web-designs/ "")
+9. [How to Convert PSD to HTML (20+ Tutorials)](http://www.web3mantra.com/2011/04/05/how-to-convert-psd-to-html-20-tutorials/ "")
+10. [43个PSD转HTML CSS切图教程(英文)](http://www.poluoluo.com/jzxy/201311/251898.html "")
+11. []("")

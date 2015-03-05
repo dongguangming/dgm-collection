@@ -1,3 +1,4 @@
+1. [必须关注的25位知名JavaScript开发者](http://blog.crossrider.com/post/28828010399/25-js-developers-you-must-follow-on-twitter "")
 1. [JavaScript:The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript.html "")
 2. [A Few New Things Coming To JavaScript](http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/ "")
 3. [JavaScript Lisp Implementations](http://ceaude.twoticketsplease.de/js-lisps.html "")
@@ -60,7 +61,11 @@
 
 ###JavaScript库
 1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")
+2. [11 essential JavaScript tools for Web developers](http://www.itworld.com/article/2879027/javascript-11-essential-javascript-tools-for-web-developers.html "")
 2. [25 Highly Useful AngularJS Tools for Web Developers](http://devzum.com/2015/02/28/bestl-angularjs-tools/ "")
+3. [The Big List of AngularJS Resources](http://blog.backand.com/list-of-angularjs-resources/ "")
+4. [优秀的Meteor学习资源](http://www.csdn.net/article/1970-01-01/2815040 "")
+5. [Best Learning Resources for Meteor.js](https://www.yauh.de/articles/376/best-learning-resources-for-meteorjs/ "")
 
 ###JavaScript Architecture
 1. [2015 年 JS 应用架构趋势](http://www.oschina.net/translate/javascript-application-architecture-on-the-road-to-2015 "")
