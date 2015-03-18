@@ -9,9 +9,21 @@
 5. [15 More Responsive CSS Frameworks & Boilerplates Worth Considering](http://speckyboy.com/2012/08/21/15-more-responsive-css-frameworks-boilerplates-worth-considering/"")
 6. [20 Free ‘Flat’ GUI Templates](http://speckyboy.com/2013/04/03/flat-gui-templates/"")
 7. [向设计师分享30个免费的扁平化风格设计素材](http://www.admin10000.com/document/2680.html "")
+8. [Polymer, Patterns and Programmers](http://www.sitepoint.com/radar-week-polymer-patterns-programmers/ "")
+
+###互联网公司开发
+1. [百度前端]("")
+2. [阿里前端]("")
+1. [腾讯前端](http://www.alloyteam.com/ "")
+2. []("")
+
+###Web Component
+1. [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/ "")
+2. []("")
 
 ###Web developer
 1. [Github上最受关注的前端大牛 快来膜拜吧！](http://www.admin10000.com/document/4856.html "")
+2. [前端组件库](https://github.com/JingwenTian/awesome-frontend "")
 2. [很多前端资源](http://www.webresourcesdepot.com/ "")
 3. [Web标准推广人](http://meyerweb.com/ "")
 1. [Lockless Performance](http://locklessinc.com/ "")
@@ -32,3 +44,6 @@
 9. [How to Convert PSD to HTML (20+ Tutorials)](http://www.web3mantra.com/2011/04/05/how-to-convert-psd-to-html-20-tutorials/ "")
 10. [43个PSD转HTML CSS切图教程(英文)](http://www.poluoluo.com/jzxy/201311/251898.html "")
 11. []("")
+
+###REST
+1. [REST-y Reader](http://www.infoq.com/articles/rest-reading-list "")

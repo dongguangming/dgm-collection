@@ -26,6 +26,7 @@
 1. [You Want to Become a Software Architect? Here is Your Reading List!](http://java.dzone.com/articles/you-want-become-software "")
 
 ###linux
+1. [Linux x86手册](https://www.gentoo.org/doc/zh_cn/handbook/handbook-x86.xml "")
 1. [GNU make](https://www.gnu.org/software/make/manual/make.html "")
 1. [50 UNIX / Linux Sysadmin Tutorials](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/ "")
 

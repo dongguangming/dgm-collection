@@ -4,6 +4,7 @@
 4. [PythonDecoratorLibrary](https://wiki.python.org/moin/PythonDecoratorLibrary "")
 5. [深刻理解Python中的元类](http://blog.jobbole.com/21351/ "")
 6. [Python高级特性: Classes和Metaclasses](http://blog.jobbole.com/67748/ "")
+7. [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/ "")
 
 ###python可视化
 1. [Graphs in Python](http://www.python-course.eu/graphs_python.php "")
