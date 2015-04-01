@@ -12,7 +12,9 @@
 5. [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/ "")
 2. [深刻理解JavaScript基于原型的面向对象](http://www.iteye.com/topic/1126635 "")
 3. [Simple JavaScript Inheritance](http://ejohn.org/blog/simple-javascript-inheritance/ "")
+4. [javascript-constructor-functions-vs-factory-functions](http://ericleads.com/2013/01/javascript-constructor-functions-vs-factory-functions/ "")
 1. [JavaScript中的原型和继承](http://www.admin10000.com/document/4343.html "")
+2. [Why Prototypal Inheritance Matters(为什么原型继承很重要)](http://aaditmshah.github.io/why-prototypal-inheritance-matters/ "")
 2. [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/index.html#resources "")
 2. [Javascript 面向对象编程](http://coolshell.cn/articles/6441.html "")
 3. [JavaScript instanceof 运算符深入剖析](http://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/ "")
@@ -92,6 +94,7 @@
 ###good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")
+3. [javascript.info](http://javascript.info/ "")
 3. [JavaScript.isSexy](http://javascriptissexy.com/ "")
 2. [Eloquent JavaScript](http://eloquentjavascript.net/1st_edition/ "")
 3. [Advanced JavaScript](http://ejohn.org/apps/learn/ "")
