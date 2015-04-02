@@ -85,7 +85,7 @@
 2. [JavaScript Architecture for the 23rd Century](http://modernweb.com/2014/10/15/javascript-architecture-23rd-century/ "")
 3. [A Full Javascript Architecture, Part One - NodeJS](http://blog.zenika.com/index.php?post/2011/04/10/NodeJS "")
 4. [MVC Architecture for JavaScript Applications](http://michaux.ca/articles/mvc-architecture-for-javascript-applications "")
-5. [BACKBONE.JS FOR LARGE SCALE APPLICATIONS – UI ARCHITECTURE]("http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/ "")
+5. [BACKBONE.JS FOR LARGE SCALE APPLICATIONS – UI ARCHITECTURE](http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/ "")
 6. [scalable-javascript-architecture](https://github.com/aranm/scalable-javascript-architecture "")
 7. [Resources On Scalable JavaScript Application Architecture](https://github.com/aurajs/aura/wiki/Resources-On-Scalable-JavaScript-Application-Architecture "")
 8. [getting-to-know-flux-the-react-js-architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture "")
