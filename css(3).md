@@ -9,7 +9,9 @@
 7. [Github使用的文档框架KSS](https://github.com/kneath/kss "")
 8. [25 个超棒的CSS背景](http://www.php100.com/html/webkaifa/DIV_CSS/2012/0110/9644.html "")
 9. [css动画clocks](https://cssanimation.rocks/clocks/ "")
-
+10. [学习CSS布局（Learn CSS Layout）](http://learnlayout.com/ "学习css布局")
+11. [30个你必须熟记的CSS选择器](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "")
+12. [10 个轻松学会 CSS3 的优秀在线资源](http://www.oschina.net/news/60989/10-best-online-resources-to-learn-css3-easily "")
 
 ###工具
 1. [2014年20款最好的CSS工具 ](http://www.admin10000.com/document/4578.html "")

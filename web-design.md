@@ -43,7 +43,16 @@
 8. [web-designs in techandall.com](http://www.techandall.com/category/web-designs/ "")
 9. [How to Convert PSD to HTML (20+ Tutorials)](http://www.web3mantra.com/2011/04/05/how-to-convert-psd-to-html-20-tutorials/ "")
 10. [43个PSD转HTML CSS切图教程(英文)](http://www.poluoluo.com/jzxy/201311/251898.html "")
-11. []("")
+11. [psd-htmlcss-conversion-tutorials](http://www.1stwebdesigner.com/psd-htmlcss-conversion-tutorials/ "")
+
+###字体设计
+1. [10 Free Tools To Create Your Own Fonts
+](http://beebom.com/2015/02/free-tools-to-create-your-own-fonts "")
+
+###PhotoShop
+1. [photoshop-ebooks](http://www.freebookcentre.net/graphics-design-books/photoshop-ebooks-download.html "")
+1. [learn-photoshop-cs6](http://tv.adobe.com/show/learn-photoshop-cs6/ "")
+1. [10-websites-to-make-you-a-photoshop-ninja](http://www.makeuseof.com/tag/10-websites-to-make-you-a-photoshop-ninja/ "")
 
 ###REST
 1. [REST-y Reader](http://www.infoq.com/articles/rest-reading-list "")
