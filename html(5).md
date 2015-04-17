@@ -57,6 +57,10 @@
 4. [Write a 3D Soft Engine from Scratch](http://www.sitepoint.com/series/write-a-3d-soft-engine-from-scratch/ "")
 5. [Let’s Build a 3D Graphics Software Engine](http://gamedevelopment.tutsplus.com/series/lets-build-a-3d-graphics-software-engine--gamedev-12718 "")
 
+###动画工具
+1.[15 Top HTML5 Tools to Create Advanced Animation With](http://blog.templatemonster.com/2014/07/18/html5-animation-tools/ "")
+
+
 ###游戏开发
 1. [10 Best Online Resources That Help You to Learn Game Development](http://devzum.com/2015/02/23/best-online-resources-for-game-development/ "")
 
@@ -67,3 +71,6 @@
 4. [](http://jsfiddle.net/ "")
 2. [DIVE INTO HTML5](http://diveinto.html5doctor.com/index.html "")
 3. [html.cita.illinois.edu](http://html.cita.illinois.edu/ "")
+
+###学习网站
+1. [html5doctor](http://html5doctor.com/ "")

@@ -49,6 +49,10 @@
 1. [10 Free Tools To Create Your Own Fonts
 ](http://beebom.com/2015/02/free-tools-to-create-your-own-fonts "")
 
+###颜色设计
+1. [science-colors-web-design](http://www.1stwebdesigner.com/science-colors-web-design/ "")
+
+
 ###PhotoShop
 1. [photoshop-ebooks](http://www.freebookcentre.net/graphics-design-books/photoshop-ebooks-download.html "")
 1. [learn-photoshop-cs6](http://tv.adobe.com/show/learn-photoshop-cs6/ "")
