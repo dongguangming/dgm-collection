@@ -60,6 +60,7 @@
 5. [JavaScript Promises ... In Wicked Detail](http://dailyjs.com/2014/02/20/promises-in-detail/"")
 6. [An Overview of JavaScript Promises](http://www.sitepoint.com/overview-javascript-promises/ "")
 3. [JavaScript异步编程的Promise模式](http://www.infoq.com/cn/news/2011/09/js-promise "")
+4. [Five Patterns to Help You Tame Asynchronous JavaScript](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript "")
 2. [15 JavaScript Tools to Improve Your Coding Skills](http://codegeekz.com/javascript-tools/ "")
 3. [JavaScript-Module-Pattern-In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html "")
 4. [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/"")
@@ -67,6 +68,10 @@
 6. [ GitHub使用的JavaScript替代品CoffeeScript](https://github.com/jashkenas/coffee-script "")
 6. [GitHub的行为 & JavaScript风格指南](https://github.com/styleguide/javascript "")
 7. [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript "")
+8.
+###Node.js
+1. [Nodejs学习路线图](http://www.nodejs.netscalable/a/20141016/232139.html "")
+1. [Export This: Interface Design Patterns(七种模式) for Node.js Modules](http://bites.goodeggs.com/posts/export-this/ "七种模式")
 
 ###JavaScript库
 1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")

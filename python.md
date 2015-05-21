@@ -7,6 +7,12 @@
 7. [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/ "")
 8. [如何成为Python高手](http://www.vaikan.com/how-to-become-a-proficient-python-programmer/ "")
 9. [Python高效编程技巧](http://www.vaikan.com/improving-your-python-productivity/ "")
-10. 
+
+###Django
+1. [高效django](effectivedjango "")
+1. [Custom Widget Types for HTML5 Form Fields](https://djangosnippets.org/snippets/2027/ "")
+###实用脚本
+1. [发送电子邮件](http://code4reference.com/2013/07/simple-python-script-to-send-an-email/ "")
+2. [List of Python API's](http://www.pythonforbeginners.com/development/list-of-python-apis/ "")
 ###python可视化
 1. [Graphs in Python](http://www.python-course.eu/graphs_python.php "")

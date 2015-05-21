@@ -22,13 +22,29 @@
 2. []("")
 
 ###Web developer
+1. [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html "")
 1. [Github上最受关注的前端大牛 快来膜拜吧！](http://www.admin10000.com/document/4856.html "")
+2. [Beginner HTML5, JavaScript, jQuery, Backbone, and CSS3 Resources
+A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquery-backbone-and-css3-resources/ "")
 2. [前端组件库](https://github.com/JingwenTian/awesome-frontend "")
 2. [很多前端资源](http://www.webresourcesdepot.com/ "")
 3. [Web标准推广人](http://meyerweb.com/ "")
 1. [Lockless Performance](http://locklessinc.com/ "")
 2. [Another 20 Docs and Guides for Front-End Developers](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/ "")
+3. [完整的html元标记列表](http://code.lancepollard.com/complete-list-of-html-meta-tags/ "")
+3. [关于Web缓存的好网站](http://www.web-caching.com/ "")
+4. [Web Cookie](http://cookiecontroller.com/ "")
+3. [面向站长和网站管理员的Web缓存加速指南](https://www.mnot.net/cache_docs/ "")
+4. [每个Web开发者关于url编码必须知道什么](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding "What every web developer must know about URL encoding")
+5. [Web Performance](http://calendar.perfplanet.com/2014/ "")
+6. [开放Web应用安全工程](https://www.owasp.org/index.php/Main_Page "Open Web Application Security Project (OWASP)")
 
+###数据可视化
+1. [数据可视化org](http://visualizing.org/ "")
+###Web 3D
+1. [火狐的虚拟现实](http://mozvr.com/ "")
+2. [Web 3D Org](http://www.web3d.org/ "")
+1. [3D Web Fest](http://blog.siliconpublishing.com/2015/05/3d-web-fest/ "")
 ###web design website
 1. [uifaces.com](http://uifaces.com/ "")
 1. [sitepoint](http://www.sitepoint.com/ "")
@@ -44,7 +60,8 @@
 9. [How to Convert PSD to HTML (20+ Tutorials)](http://www.web3mantra.com/2011/04/05/how-to-convert-psd-to-html-20-tutorials/ "")
 10. [43个PSD转HTML CSS切图教程(英文)](http://www.poluoluo.com/jzxy/201311/251898.html "")
 11. [psd-htmlcss-conversion-tutorials](http://www.1stwebdesigner.com/psd-htmlcss-conversion-tutorials/ "")
-
+12. [大量响应式 Web 设计学习资源](https://bradfrost.github.io/this-is-responsive/resources.html"")
+13. [Web开发者福利：这些播客让你灵感迸发](http://mdsa.51cto.com/art/201504/471175_all.htm "")
 ###字体设计
 1. [10 Free Tools To Create Your Own Fonts
 ](http://beebom.com/2015/02/free-tools-to-create-your-own-fonts "")

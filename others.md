@@ -34,3 +34,9 @@
 1. [it-ebooks.info](http://it-ebooks.info/ "")
 2. [oreilly-labs-book](http://chimera.labs.oreilly.com/ "")
 3. [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/ "")
+
+###其他
+1. [Data Science Resources](http://www.datascienceweekly.org/data-science-resources "")
+2. [The Architecture of Open Source Applications](http://www.aosabook.org/en/ "")
+3. [代码架构](http://codingthearchitecture.com/ "")
+4. [GNU Make](https://www.gnu.org/software/make/manual/make.html "")
