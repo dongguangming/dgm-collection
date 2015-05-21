@@ -41,10 +41,12 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 
 ###数据可视化
 1. [数据可视化org](http://visualizing.org/ "")
+
 ###Web 3D
 1. [火狐的虚拟现实](http://mozvr.com/ "")
 2. [Web 3D Org](http://www.web3d.org/ "")
 1. [3D Web Fest](http://blog.siliconpublishing.com/2015/05/3d-web-fest/ "")
+
 ###web design website
 1. [uifaces.com](http://uifaces.com/ "")
 1. [sitepoint](http://www.sitepoint.com/ "")
@@ -62,6 +64,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 11. [psd-htmlcss-conversion-tutorials](http://www.1stwebdesigner.com/psd-htmlcss-conversion-tutorials/ "")
 12. [大量响应式 Web 设计学习资源](https://bradfrost.github.io/this-is-responsive/resources.html"")
 13. [Web开发者福利：这些播客让你灵感迸发](http://mdsa.51cto.com/art/201504/471175_all.htm "")
+
 ###字体设计
 1. [10 Free Tools To Create Your Own Fonts
 ](http://beebom.com/2015/02/free-tools-to-create-your-own-fonts "")

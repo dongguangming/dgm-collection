@@ -11,8 +11,10 @@
 ###Django
 1. [高效django](effectivedjango "")
 1. [Custom Widget Types for HTML5 Form Fields](https://djangosnippets.org/snippets/2027/ "")
+
 ###实用脚本
 1. [发送电子邮件](http://code4reference.com/2013/07/simple-python-script-to-send-an-email/ "")
 2. [List of Python API's](http://www.pythonforbeginners.com/development/list-of-python-apis/ "")
+
 ###python可视化
 1. [Graphs in Python](http://www.python-course.eu/graphs_python.php "")
