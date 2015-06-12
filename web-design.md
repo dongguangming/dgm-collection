@@ -35,6 +35,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 3. [关于Web缓存的好网站](http://www.web-caching.com/ "")
 4. [Web Cookie](http://cookiecontroller.com/ "")
 3. [面向站长和网站管理员的Web缓存加速指南](https://www.mnot.net/cache_docs/ "")
+4. [Web缓存基础：术语、HTTP报头和缓存策略](https://linux.cn/article-5456-qqmail.html "")
 4. [每个Web开发者关于url编码必须知道什么](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding "What every web developer must know about URL encoding")
 5. [Web Performance](http://calendar.perfplanet.com/2014/ "")
 6. [开放Web应用安全工程](https://www.owasp.org/index.php/Main_Page "Open Web Application Security Project (OWASP)")
@@ -68,6 +69,9 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 ###字体设计
 1. [10 Free Tools To Create Your Own Fonts
 ](http://beebom.com/2015/02/free-tools-to-create-your-own-fonts "")
+
+###icon设计
+1. [CSS3 Icons](http://www.uiplayground.in/css3-icons/ "")
 
 ###颜色设计
 1. [science-colors-web-design](http://www.1stwebdesigner.com/science-colors-web-design/ "")

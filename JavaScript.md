@@ -68,7 +68,7 @@
 6. [ GitHub使用的JavaScript替代品CoffeeScript](https://github.com/jashkenas/coffee-script "")
 6. [GitHub的行为 & JavaScript风格指南](https://github.com/styleguide/javascript "")
 7. [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript "")
-8.
+8. [使用面向对象的技术创建高级 Web 应用程序](https://msdn.microsoft.com/zh-cn/magazine/cc163419.aspx "")
 
 ###Node.js
 1. [Nodejs学习路线图](http://www.nodejs.netscalable/a/20141016/232139.html "")
@@ -108,3 +108,4 @@
 4. [JavaScript The Good Parts book'author website](http://www.crockford.com/ "")
 4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")
 5. [JavaScript Language](http://michaux.ca/ "")
+6. [JavaScript 怪异模式](http://www.quirksmode.org/js/contents.html "")
