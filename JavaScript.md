@@ -69,6 +69,8 @@
 6. [GitHub的行为 & JavaScript风格指南](https://github.com/styleguide/javascript "")
 7. [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript "")
 8. [使用面向对象的技术创建高级 Web 应用程序](https://msdn.microsoft.com/zh-cn/magazine/cc163419.aspx "")
+9. [10 Small Things You May Not Know About Javascript](http://samuli.hakoniemi.net/10-small-things-you-may-not-know-about-javascript/ "")
+10. [Understanding the Javascript Event Loop](http://prkr.me/words/2014/understanding-the-javascript-event-loop/ "")
 
 ###Node.js
 1. [Nodejs学习路线图](http://www.nodejs.netscalable/a/20141016/232139.html "")

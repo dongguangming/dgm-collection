@@ -7,6 +7,8 @@
 7. [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/ "")
 8. [如何成为Python高手](http://www.vaikan.com/how-to-become-a-proficient-python-programmer/ "")
 9. [Python高效编程技巧](http://www.vaikan.com/improving-your-python-productivity/ "")
+10. [从底层理解Python的执行](http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html "")
+10. 
 
 ###Django
 1. [高效django](effectivedjango "")
