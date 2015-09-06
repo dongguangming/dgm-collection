@@ -23,6 +23,6 @@
 
 ###python api工具包
 ####For Twitter
-1. [A Python wrapper around the Twitter API.]("https://github.com/bear/python-twitter" )
+1. [A Python wrapper around the Twitter API.](https://github.com/bear/python-twitter "" )
 2. [Python Twitter API](https://github.com/sixohsix/twitter "")
 3. [Twitter for Python!](https://github.com/tweepy/tweepy "")
