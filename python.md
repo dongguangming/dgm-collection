@@ -15,6 +15,7 @@
 1. [Custom Widget Types for HTML5 Form Fields](https://djangosnippets.org/snippets/2027/ "")
 1. [基于Django的博客系统](https://github.com/liangliangyy/DjangoBlog "")
 1. [django搭建博客](https://github.com/jhao104/django-blog "")
+1. [MyDjangoBlog](https://gitee.com/J_Sky/17python)
 
 ###实用脚本
 1. [发送电子邮件](http://code4reference.com/2013/07/simple-python-script-to-send-an-email/ "")
