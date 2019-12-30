@@ -29,3 +29,9 @@
 1. [A Python wrapper around the Twitter API.](https://github.com/bear/python-twitter "" )
 2. [Python Twitter API](https://github.com/sixohsix/twitter "")
 3. [Twitter for Python!](https://github.com/tweepy/tweepy "")
+
+### db
+1. [Using MongoDB in Python](https://www.codeproject.com/Articles/5252099/Using-MongoDB-in-Python)
+
+### ai
+1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
