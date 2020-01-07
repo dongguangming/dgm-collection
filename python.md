@@ -31,6 +31,7 @@
 3. [Twitter for Python!](https://github.com/tweepy/tweepy "")
 
 ### db
+0. [How to Install MongoDB 4 in CentOS 8](https://www.tecmint.com/install-mongodb-in-centos-8/)
 1. [Using MongoDB in Python](https://www.codeproject.com/Articles/5252099/Using-MongoDB-in-Python)
 
 ### ai
