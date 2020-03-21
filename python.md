@@ -36,3 +36,7 @@
 
 ### ai
 1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
+
+###others
+1. [web scraping with python](https://blog.floydhub.com/web-scraping-with-python/)
+2. [youtube clone in python and django](https://www.education-ecosystem.com/andreybu/RaWGm-how-to-create-a-youtube-clone-in-python-and-django/9b4Kz-youtube_webapp/)
