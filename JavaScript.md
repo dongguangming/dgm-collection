@@ -111,3 +111,6 @@
 4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")
 5. [JavaScript Language](http://michaux.ca/ "")
 6. [JavaScript 怪异模式](http://www.quirksmode.org/js/contents.html "")
+
+###others
+1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
