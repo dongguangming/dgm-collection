@@ -8,7 +8,16 @@
 8. [如何成为Python高手](http://www.vaikan.com/how-to-become-a-proficient-python-programmer/ "")
 9. [Python高效编程技巧](http://www.vaikan.com/improving-your-python-productivity/ "")
 10. [从底层理解Python的执行](http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html "")
-10. 
+11. [Python metaclasses by example](https://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example)
+12. [Metaclass in Python](https://www.agiliq.com/blog/2012/07/metaclass-python/)
+13. [A Study of Python's More Advanced Features Part III: Classes and Metaclasses](http://sahandsaba.com/python-classes-metaclasses.html)
+14. [Python Metaclasses in Review Board](https://mikeconley.ca/blog/2010/05/04/python-metaclasses-in-review-board/ '')
+15. [understanding-python-metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+16. [Metaclasses in Python](https://dougblack.io/words/metaclasses.html)
+17. [python-metaclass-registry-pattern ](https://www.cucumbertown.com/craft/python-metaclass-registry-pattern/)
+18. [type-metaclass-class-instance](https://www.mindissoftware.com/type-metaclass-class-instance/)
+19. [Creating A Python Plugin Framework With Metaclasses](https://blog.laslabs.com/2013/12/creating-a-python-plugin-framework-with-metaclasses/)
+20. [A Simple Plugin Framework](http://martyalchin.com/2008/jan/10/simple-plugin-framework/)
 
 ###Django
 1. [高效django](effectivedjango "")
