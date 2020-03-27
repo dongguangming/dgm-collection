@@ -1,4 +1,5 @@
 # dgm-collection
+好记性不如烂笔头，养成写备忘录的习惯
 我董广明收集到的关于编程开发的好资料
 
 1. html(5)资料： https://github.com/dongguangming/dgm-collection/blob/master/html(5).md
