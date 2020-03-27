@@ -112,6 +112,11 @@
 5. [JavaScript Language](http://michaux.ca/ "")
 6. [JavaScript 怪异模式](http://www.quirksmode.org/js/contents.html "")
 
+### javascript lib
+1. [fullpage.js](https://github.com/alvarotrigo/fullPage.js)
+2. [waterfall.js](https://github.com/raphamorim/waterfall.js)
+3. [video.js](https://github.com/videojs/video.js)
+4. [pdf.js](https://github.com/mozilla/pdf.js/)
 ###others
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
