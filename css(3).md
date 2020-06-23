@@ -16,3 +16,8 @@
 ###工具
 1. [2014年20款最好的CSS工具 ](http://www.admin10000.com/document/4578.html "")
 2. [css按钮在线制作](http://www.bestcssbuttongenerator.com/ "")
+
+### code
+1. [Learn Z-Index Using a Visualization Tool](https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool)
+2. [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/?ref=devawesome.io)
+3. [Building a hexagonal grid using CSS grid 超酷炫](https://ninjarockstar.dev/css-hex-grids/)
