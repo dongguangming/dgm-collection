@@ -49,3 +49,5 @@
 ###others
 1. [web scraping with python](https://blog.floydhub.com/web-scraping-with-python/)
 2. [youtube clone in python and django](https://www.education-ecosystem.com/andreybu/RaWGm-how-to-create-a-youtube-clone-in-python-and-django/9b4Kz-youtube_webapp/)
+2. [How to Build an E-commerce Website with Django and Python
+](https://morioh.com/p/46f626a2a54e?f=5ece1a68f0e6056e36305f65)
