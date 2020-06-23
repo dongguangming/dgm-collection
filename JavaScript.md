@@ -122,3 +122,8 @@
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
 3. [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+4. [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
+5. [Twitter Interaction Circles: An Exercise Project with NodeJS, Canvas and API](https://blog.hackertyper.net/post/twitter-interaction-circles-guide/)
+
+###React.js
+1. [30 React Apps](https://dev.to/hemantt/30-react-apps-4hn9)
