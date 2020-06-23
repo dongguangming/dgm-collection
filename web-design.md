@@ -86,3 +86,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 
 ###REST
 1. [REST-y Reader](http://www.infoq.com/articles/rest-reading-list "")
+
+###其他
+1. [SEO](https://9elements.com/seo-cheat-sheet/?ref=devawesome.io)
+2. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
