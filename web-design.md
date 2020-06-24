@@ -91,3 +91,4 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 ###其他
 1. [SEO](https://9elements.com/seo-cheat-sheet/?ref=devawesome.io)
 2. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+3. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
