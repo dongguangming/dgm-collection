@@ -27,7 +27,7 @@
 1. [MyDjangoBlog](https://gitee.com/J_Sky/17python)
 1. [How to Deploy old Django project using NGINX, Docker and UWSGI](https://yasoob.me/posts/deploying-django-docker-nginx-uwsgi/)
 1. [How to Use JWT Authentication with Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
-1. []()
+1. [How to Implement Token Authentication using Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 1. []()
 1. []()
 1. []()
