@@ -25,6 +25,13 @@
 1. [基于Django的博客系统](https://github.com/liangliangyy/DjangoBlog "")
 1. [django搭建博客](https://github.com/jhao104/django-blog "")
 1. [MyDjangoBlog](https://gitee.com/J_Sky/17python)
+1. [How to Deploy old Django project using NGINX, Docker and UWSGI](https://yasoob.me/posts/deploying-django-docker-nginx-uwsgi/)
+1. [How to Use JWT Authentication with Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ###实用脚本
 1. [发送电子邮件](http://code4reference.com/2013/07/simple-python-script-to-send-an-email/ "")
