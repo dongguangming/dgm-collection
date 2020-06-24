@@ -193,6 +193,7 @@
 3. []()
 
 ###Vue.js
+0. [Vue.js news ](https://news.vuejs.org/)
 0. [Vue.js Developers](https://vuejsdevelopers.com/)
 1. [Vue.js Examples](https://vuejsexamples.com/)
 1. [made with vue.js](https://madewithvuejs.com/)
