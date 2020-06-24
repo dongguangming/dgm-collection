@@ -72,6 +72,17 @@
 8. [使用面向对象的技术创建高级 Web 应用程序](https://msdn.microsoft.com/zh-cn/magazine/cc163419.aspx "")
 9. [10 Small Things You May Not Know About Javascript](http://samuli.hakoniemi.net/10-small-things-you-may-not-know-about-javascript/ "")
 10. [Understanding the Javascript Event Loop](http://prkr.me/words/2014/understanding-the-javascript-event-loop/ "")
+3. [javascript-use-map-reduce-and-filter](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+3. [JavaScript Christmas Fun(ctions)](https://javascript.christmas/2018/13)
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
 
 ###Node.js
 1. [Nodejs学习路线图](http://www.nodejs.netscalable/a/20141016/232139.html "")
@@ -127,6 +138,7 @@
 4. [High Performance JavaScript 作者](http://www.nczonline.net/ "")
 5. [JavaScript Language](http://michaux.ca/ "")
 6. [JavaScript 怪异模式](http://www.quirksmode.org/js/contents.html "")
+6. [2019 JavaScript Rising Stars](https://risingstars.js.org/2019/en)
 
 ### javascript lib
 1. [fullpage.js](https://github.com/alvarotrigo/fullPage.js)
@@ -138,6 +150,7 @@
 1. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ###others
+
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
 3. [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -218,7 +231,7 @@
 1. [10-best-tips-for-learning-vue-from-vue-masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e)
 1. [Building Modern Applications with Django and Vue.js](https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/)
 1. [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/)
-1. []()
+1. [filters-mixins-custom-directives](https://medium.com/@j_lim_j/summary-of-vuejs-by-sarah-drasner-part-6-of-7-filters-mixins-custom-directives-6677a3e4d2fa)
 1. []()
 1. []()
 1. []()
