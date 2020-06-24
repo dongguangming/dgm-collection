@@ -22,6 +22,7 @@
 2. [Web平台.org](https://www.webplatform.org/ "Web平台")
 3. [Web平台.io](http://webplatform.io/ "Web平台")
 4. [Web平台浏览器技术栈](https://platform.html5.org/ "Web平台浏览器技术栈")
+5. [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 
 ###Web developer
 1. [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html "")
