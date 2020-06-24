@@ -150,7 +150,7 @@
 1. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ###others
-
+0. [the-complete-javascript-handbook太棒了](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
 3. [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -177,9 +177,9 @@
 1. [30 React Apps](https://dev.to/hemantt/30-react-apps-4hn9)
 2. [how-to-use-reactjs-with-webpack-4-babel-7-and-material-design](https://medium.com/free-code-camp/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618)
 3. [35+ Free React templates and themes](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
-3. []()
-3. []()
-3. []()
+3. [Resources for learning React](https://dev.to/devtghosh/resources-for-learning-react-3a0b)
+3. [A collection to learn React Hooks!](https://dev.to/nialljoemaher/a-collection-to-learn-react-hooks-da1)
+3. [6 STUNNING REACT.JS PROJECT IDEAS](https://flatlogic.com/blog/6-stunning-react-js-project-ideas/?ck_subscriber_id=887777019)
 3. []()
 3. []()
 3. []()
@@ -247,7 +247,7 @@
 1. [Building Modern Applications with Django and Vue.js](https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/)
 1. [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/)
 1. [filters-mixins-custom-directives](https://medium.com/@j_lim_j/summary-of-vuejs-by-sarah-drasner-part-6-of-7-filters-mixins-custom-directives-6677a3e4d2fa)
-1. []()
+1. [8-vue-js-ui-component](https://medium.com/swlh/8-vue-js-ui-component-for-2019-79fc43d6da79)
 1. []()
 1. []()
 1. []()
