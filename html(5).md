@@ -1,5 +1,6 @@
 1. [whatwg.org](https://html.spec.whatwg.org/multipage/ "")
 2. [w3c](http://www.w3.org/ "")
+3. [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
 3. [complete-list-of-html-meta-tags](http://code.lancepollard.com/complete-list-of-html-meta-tags/ "")
 4. [18-meta-tags-every-webpage-should-have-in-2013](http://www.iacquire.com/blog/18-meta-tags-every-webpage-should-have-in-2013"")
 3. [the-canvas-element come from whatwg](https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element "")
