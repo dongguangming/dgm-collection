@@ -82,6 +82,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 11. [psd-htmlcss-conversion-tutorials](http://www.1stwebdesigner.com/psd-htmlcss-conversion-tutorials/ "")
 12. [大量响应式 Web 设计学习资源](https://bradfrost.github.io/this-is-responsive/resources.html"")
 13. [Web开发者福利：这些播客让你灵感迸发](http://mdsa.51cto.com/art/201504/471175_all.htm "")
+14. [Free stock photos · Pexels](https://www.pexels.com/)
 
 ###字体设计
 1. [10 Free Tools To Create Your Own Fonts
