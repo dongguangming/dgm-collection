@@ -12,6 +12,7 @@
 10. [学习CSS布局（Learn CSS Layout）](http://learnlayout.com/ "学习css布局")
 11. [30个你必须熟记的CSS选择器](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "")
 12. [10 个轻松学会 CSS3 的优秀在线资源](http://www.oschina.net/news/60989/10-best-online-resources-to-learn-css3-easily "")
+13. []()
 
 ###工具
 1. [2014年20款最好的CSS工具 ](http://www.admin10000.com/document/4578.html "")
@@ -23,8 +24,8 @@
 3. [Building a hexagonal grid using CSS grid 超酷炫](https://ninjarockstar.dev/css-hex-grids/)
 4. [Creating Layouts with CSS Grid](https://www.sitepoint.com/creating-css-grid-layouts/)
 4. [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
-4. []()
-4. []()
+4. [The Best Way to Learn CSS](https://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
+4. [Upcoming Material Design CSS library – a Twitter Bootstrap killer?](http://materialdesignblog.com/upcoming-material-design-css-library-a-twitter-bootstrap-killer/)
 4. []()
 4. []()
 4. []()
