@@ -63,27 +63,19 @@
 ### ai
 1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
 
-###others
+### others
 1. [web scraping with python](https://blog.floydhub.com/web-scraping-with-python/)
 2. [youtube clone in python and django](https://www.education-ecosystem.com/andreybu/RaWGm-how-to-create-a-youtube-clone-in-python-and-django/9b4Kz-youtube_webapp/)
-2. [How to Build an E-commerce Website with Django and Python
-](https://morioh.com/p/46f626a2a54e?f=5ece1a68f0e6056e36305f65)
-2 [利用Scrapy爬取所有知乎用户详细信息并存至MongoDB（附视频和源码）](https://zhuanlan.zhihu.com/p/26378388)
-2 [Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB](http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/)
-2 [Python SimpleHTTPServer.SimpleHTTPRequestHandler() Examples](https://www.programcreek.com/python/example/2186/SimpleHTTPServer.SimpleHTTPRequestHandler)
-2 [Face Detection using OpenCV in Python](https://www.thepythoncode.com/article/detect-faces-opencv-python)
-2 [很好Live video streaming over network with OpenCV and ImageZMQ](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
-2 []()
+2. [How to Build an E-commerce Website with Django and Python](https://morioh.com/p/46f626a2a54e?f=5ece1a68f0e6056e36305f65)
+2. [利用Scrapy爬取所有知乎用户详细信息并存至MongoDB（附视频和源码）](https://zhuanlan.zhihu.com/p/26378388)
+2. [Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB](http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/)
+2. [Python SimpleHTTPServer.SimpleHTTPRequestHandler() Examples](https://www.programcreek.com/python/example/2186/SimpleHTTPServer.SimpleHTTPRequestHandler)
+2. [Face Detection using OpenCV in Python](https://www.thepythoncode.com/article/detect-faces-opencv-python)
+2. [很好Live video streaming over network with OpenCV and ImageZMQ](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
+2. []()
+2. []()
+2. []()
+2. []()
+2. []()
+
 
