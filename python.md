@@ -33,8 +33,8 @@
 1. [Build a REST API with Django – A Test Driven Approach: Part 1](https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1)
 1. [Scalable and resilient Django with Kubernetes](https://harishnarayanan.org/writing/kubernetes-django/)
 1. [django-in-depth](http://media.b-list.org/presentations/2012/pycon/django-in-depth.pdf)
-1. []()
-1. []()
+1. [Developers guide to Running Django Applications on Heroku](https://www.kencochrane.com/blog/2011/11/developers-guide-for-running-django-apps-on-heroku/)
+1. [Using MongoDB as your primary Django database](https://staltz.com/djangoconfi-mongoengine/#/17)
 1. []()
 1. []()
 1. []()
@@ -62,6 +62,7 @@
 
 ### ai
 1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
+2. [機器學習：使用Python](https://machine-learning-python.kspax.io/)
 
 ### others
 1. [web scraping with python](https://blog.floydhub.com/web-scraping-with-python/)
@@ -72,8 +73,8 @@
 2. [Python SimpleHTTPServer.SimpleHTTPRequestHandler() Examples](https://www.programcreek.com/python/example/2186/SimpleHTTPServer.SimpleHTTPRequestHandler)
 2. [Face Detection using OpenCV in Python](https://www.thepythoncode.com/article/detect-faces-opencv-python)
 2. [很好Live video streaming over network with OpenCV and ImageZMQ](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
-2. []()
-2. []()
+2. [用 Python 写一个 NoSQL 数据库](http://liuchengxu.org/blog-cn/posts/nosql-in-python/)
+2. [python使用xlsxwriter打造excel周报日周的统计图表](http://xiaorui.cc/archives/831)
 2. []()
 2. []()
 2. []()
