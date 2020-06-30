@@ -23,6 +23,7 @@
 3. [Web平台.io](http://webplatform.io/ "Web平台")
 4. [Web平台浏览器技术栈](https://platform.html5.org/ "Web平台浏览器技术栈")
 5. [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+6. [和 Polymer 一起加入 Web 组件革命](https://www.ibm.com/developerworks/cn/web/wa-polymer/)
 
 ###Web developer
 1. [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html "")
@@ -83,6 +84,16 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 12. [大量响应式 Web 设计学习资源](https://bradfrost.github.io/this-is-responsive/resources.html"")
 13. [Web开发者福利：这些播客让你灵感迸发](http://mdsa.51cto.com/art/201504/471175_all.htm "")
 14. [Free stock photos · Pexels](https://www.pexels.com/)
+15. [responsive-web-design](https://alistapart.com/article/responsive-web-design/)
+1. [Sites with High Quality Photos You Can Use for Free](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ###字体设计
 1. [10 Free Tools To Create Your Own Fonts
@@ -123,8 +134,8 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 1. [28 Free HTML 404 Error Page Website Template](https://freshdesignweb.com/free-404-error-page-template/)
 1. [Material Design Themes](https://materialdesignthemes.com/)
 1. [8个提供免费高品质的照片网站](https://www.shejidaren.com/quality-free-photos-for-designer.html)
-1. []()
-1. []()
+1. [87+ Free Website Templates](https://www.zerotheme.com/free-website-templates)
+1. [Free & Premium HTML5 Bootstrap Templates](https://freehtml5.co/)
 1. []()
 1. []()
 1. []()
