@@ -137,7 +137,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 1. [8个提供免费高品质的照片网站](https://www.shejidaren.com/quality-free-photos-for-designer.html)
 1. [87+ Free Website Templates](https://www.zerotheme.com/free-website-templates)
 1. [Free & Premium HTML5 Bootstrap Templates](https://freehtml5.co/)
-1. []()
+1. [20 Best Muse Templates for Creating Your Website Without Coding](https://www.webdesigndev.com/best-muse-templates/)
 1. []()
 1. []()
 1. []()
