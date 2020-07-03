@@ -1,3 +1,5 @@
+1. [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://www.w3.org/TR/css-ui-3/)
+1. [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 1. [CSS架构目标](http://www.admin10000.com/document/1229.html "")
 2. [CSS之父Håkon Wium Lie访谈录](http://www.admin10000.com/document/5284.html "")
 1. [http://www.iecss.com/](http://www.iecss.com/ "")
@@ -18,6 +20,7 @@
 1. [2014年20款最好的CSS工具 ](http://www.admin10000.com/document/4578.html "")
 2. [css按钮在线制作](http://www.bestcssbuttongenerator.com/ "")
 3. [CSS STATS](https://cssstats.com/)
+4. [A web component for drawing patterns with CSS](https://css-doodle.com/)
 
 ### code
 1. [Learn Z-Index Using a Visualization Tool](https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool)
@@ -46,10 +49,10 @@
 4. [10大炫酷的HTML5文字动画特效欣赏](https://www.html5tricks.com/10-cool-html5-text-animation.html)
 4. [CSS Layout Generator](https://www.webdesignrankings.com/resources/csslayoutgenerator/)
 4. [10 Material Design cards for web in CSS & HTML](http://materialdesignblog.com/10-material-design-cards-for-web-in-css-html/)
-4. []()
-4. []()
-4. []()
-4. []()
+4. [How To Use Before and After HTML Pseudo-elements Tutorial](https://www.codewall.co.uk/how-to-use-before-and-after-html-pseudo-elements-tutorial)
+4. [3 Popular Website Heroes Created With CSS Grid Layout](https://dev.to/5t3ph/3-popular-website-heroes-created-with-css-grid-layout-4fdl)
+4. [An Introduction to CSS Grid Layout (with Examples)](https://www.freecodecamp.org/news/intro-to-css-grid-layout/)
+4. [How To Code a Blog Theme Concept in HTML & CSS](https://line25.com/tutorials/how-to-code-a-blog-theme-concept-in-html-css)
 4. []()
 4. []()
 4. []()
