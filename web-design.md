@@ -119,6 +119,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 1. [SEO](https://9elements.com/seo-cheat-sheet/?ref=devawesome.io)
 2. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 3. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+4. [Improve Animated GIF Performance With HTML5 Video](https://www.smashingmagazine.com/2018/11/gif-to-video/)
 
 ### 模板
 1. [TEMPLATED - Free CSS, HTML5 and Responsive Site Templates](https://templated.co/)
@@ -138,7 +139,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 1. [87+ Free Website Templates](https://www.zerotheme.com/free-website-templates)
 1. [Free & Premium HTML5 Bootstrap Templates](https://freehtml5.co/)
 1. [20 Best Muse Templates for Creating Your Website Without Coding](https://www.webdesigndev.com/best-muse-templates/)
-1. []()
+1. [The 101 Course On Crafting 404 Pages](https://www.smashingmagazine.com/2018/11/the-101-course-on-crafting-404-pages/)
 1. []()
 1. []()
 1. []()
