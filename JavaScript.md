@@ -282,7 +282,7 @@
 )
 1. [很好tutorial-build-an-instagram-clone-with-vue-js-and-cssgram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 1. [Build a CRUD App with Vue.js, Spring Boot, and Kotlin](https://developer.okta.com/blog/2020/06/26/spring-boot-vue-kotlin)
-1. []()
+1. [很好15 VUE JS Project Ideas: Beginner to Expert [With tutorial]](https://blog.nerdjfpb.com/project-ideas-for-vue-js-beginners-to-expert/)
 1. []()
 1. []()
 1. []()
