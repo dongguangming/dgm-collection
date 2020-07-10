@@ -65,6 +65,7 @@
 2. [機器學習：使用Python](https://machine-learning-python.kspax.io/)
 
 ### others
+0. [Python Programming Tutorials](https://pythonprogramming.net/)
 1. [web scraping with python](https://blog.floydhub.com/web-scraping-with-python/)
 2. [youtube clone in python and django](https://www.education-ecosystem.com/andreybu/RaWGm-how-to-create-a-youtube-clone-in-python-and-django/9b4Kz-youtube_webapp/)
 2. [How to Build an E-commerce Website with Django and Python](https://morioh.com/p/46f626a2a54e?f=5ece1a68f0e6056e36305f65)
@@ -75,7 +76,7 @@
 2. [很好Live video streaming over network with OpenCV and ImageZMQ](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 2. [用 Python 写一个 NoSQL 数据库](http://liuchengxu.org/blog-cn/posts/nosql-in-python/)
 2. [python使用xlsxwriter打造excel周报日周的统计图表](http://xiaorui.cc/archives/831)
-2. []()
+2. [Program IoT systems using Python with this VSCode plugin for RTOS](https://opensource.com/article/20/7/python-rt-thread)
 2. []()
 2. []()
 
