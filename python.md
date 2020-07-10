@@ -1,3 +1,4 @@
+0. [Top 8 Free Resources to Learn Python](https://dev.to/dev0928/top-8-free-resources-to-learn-python-2a1p)
 1. [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python# "")
 2. [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html "")
 3. [Python修饰器的函数式编程](http://coolshell.cn/articles/11265.html "")
