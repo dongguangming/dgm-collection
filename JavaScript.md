@@ -194,7 +194,7 @@
 3. [Creating My First Chrome Extension](https://24ways.org/2018/my-first-chrome-extension/)
 3. [Working with Babel 7 and Webpack](https://www.thebasement.be/working-with-babel-7-and-webpack/)
 3. [Stop touching your face using a browser and TensorFlow.js](https://webrtchacks.com/stop-touching-your-face-with-browser-tensorflow-js/)
-3. []()
+3. [Graph Data Structures in JavaScript for Beginners](https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/#Graph-Applications)
 3. []()
 3. []()
 3. []()
