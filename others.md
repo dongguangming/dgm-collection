@@ -4,6 +4,7 @@
 2. [Git for Beginners](http://www.sitepoint.com/git-for-beginners/ "")
 3. [Getting Started with Git in a Team Environment](http://www.sitepoint.com/getting-started-git-team-environment/ "")
 4. [10个高级实用的Git命令](http://www.open-open.com/news/view/1006096 "")
+5. [A Complete Guide on Version Control System (Git) for System Administrator/Linux/Centos](https://www.technicalmint.com/devops/a-complete-guide-on-version-control-system-git-for-system-administrator-linux-centos/)
 
 ###Web VR(web虚拟现实)
 1. [Web中也能体验虚拟现实了！](http://mozilla.com.cn/thread-320164-1-1.html "")
@@ -44,6 +45,19 @@
 1. [Linux x86手册](https://www.gentoo.org/doc/zh_cn/handbook/handbook-x86.xml "")
 1. [GNU make](https://www.gnu.org/software/make/manual/make.html "")
 1. [50 UNIX / Linux Sysadmin Tutorials](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/ "")
+3. [100 Linux Interview Questions](https://www.technicalmint.com/interview-questions/100-linux-interview-questions/)
+3. [70 Linux Interview Questions](https://www.technicalmint.com/interview-questions/70-linux-interview-questions/)
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+
 
 ###电子书
 1. [it-ebooks.info](http://it-ebooks.info/ "")
