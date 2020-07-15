@@ -248,7 +248,7 @@
 1. [Material Design Component Framework](https://vuetifyjs.com/en/)
 1. []()
 1. [Learn Vue: Best Vue tutorials, courses & books 2020](https://reactdom.com/vue)
-1. []()
+1. [Vue.js Tutorial for beginners](https://adrianmejia.com/vue-js-tutorial-for-beginners-create-a-todo-app/)
 1. []()
 1. [8 Reasons Why Vue.js is Worth Considering for Your Next Project](https://www.netguru.com/blog/8-reasons-why-to-use-vuejs)
 1. [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/)
