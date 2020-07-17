@@ -1,0 +1,5 @@
+我们只需知道三点即可知道 exports 和 module.exports 的区别了：
+
+1. exports 是指向的 module.exports 的引用
+2. module.exports 初始值为一个空对象 {}，所以 exports 初始值也是 {}
+3. require() 返回的是 module.exports 而不是 exports

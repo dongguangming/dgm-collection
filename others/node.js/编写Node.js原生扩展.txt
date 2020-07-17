@@ -1,0 +1,240 @@
+编写Node.js原生扩展
+2013-01-05 14:41 作者: NodeJSNet 来源: 本站 浏览: 2,867 次阅读 我要评论暂无评论 字号: 大 中 小 
+摘要: Node.js是一个强大的平台，理想状态下一切都都可以用javascript写成。然而，你可能还会用到许多遗留的库和系统，这样的话使用c++编写Node.JS扩展会是一个不错的注意。以下所有例子的源代码可在node扩展示例中找到 。编写Node.js C ...
+
+Node.js是一个强大的平台，理想状态下一切都都可以用javascript写成。然而，你可能还会用到许多遗留的库和系统，这样的话使用c++编写Node.JS扩展会是一个不错的注意。
+以下所有例子的源代码可在node扩展示例中找到 。
+编写Node.js C + +扩展很大程度上就像是写V8的扩展； Node.js增加了一些接口，但大部分时间你都是在使原始的V8数据类型和方法，为了理解以下的代码，你必须首先阅读V8引擎嵌入指南。
+
+Javascript版本的Hello World
+在讲解C++版本的例子之前，先让我们来看看在Node.js中用Javascript编写的等价模块是什么样子。这是一个最简单的Hello World，也不是通过HTTP，但它展示了node模块的结构，而其接口也和大多数C++扩展要提供的接口差不多：
+
+HelloWorldJs = function() { 
+  this.m_count = 0; 
+}; 
+  
+HelloWorldJs.prototype.hello = function() 
+{ 
+  this.m_count++; 
+  return "Hello World"; 
+}; 
+  
+exports.HelloWorldJs = HelloWorldJs; 
+
+正如你所看到的，它使用prototype为HelloWorldJs类创建了一个新的方法。请注意，上述代码通过将HelloWorldJS添加到exports变量来暴露构造函数。
+
+要在其他地方使用该模块，请使用如下代码：
+
+var helloworld = require(‘helloworld_js‘); 
+var hi = new helloworld.HelloWorldJs(); 
+console.log(hi.hello()); // prints "Hello World" to stdout 
+
+C++版本的Hello World
+要开始编写C++扩展，首先要能够编译Node.js（请注意，我们使用的是Node.js 2.0版本）。本文所讲内容应该兼容所有未来的0.2.x版本。一旦编译安装完node，编译模块就不在需要额外的东西了。
+
+完整的源代码可以在这里找到 。在使用Node.js或V8之前，我们需要包括相关的头文件：
+
+#include <v8.h> 
+#include <node.h> 
+  
+using namespace node; 
+using namespace v8; 
+
+在本例子中我直接使用了V8和node的命名空间，使代码更易于阅读。虽然这种用法和谷歌的自己的C++编程风格指南相悖，但由于你需要不停的使用V8定义的类型，所以目前为止的大多数node的扩展仍然使用了V8的命名空间。
+接下来，声明HelloWorld类。它继承自node::ObjectWrap类 ，这个类提供了几个如引用计数、在V8内部传递contex等的实用功能。一般来说，所有对象应该继承ObjectWrap：
+
+class HelloWorld: ObjectWrap 
+{ 
+private: 
+  int m_count; 
+public: 
+
+声明类之后，我们定义了一个静态成员函数，用来初始化对象并将其导入Node.js提供的target对象中。设个函数基本上是告诉Node.js和V8你的类是如何创建的，和它将包含什么方法：
+
+static Persistent<FunctionTemplate> s_ct; 
+  static void Init(Handle<Object> target) 
+  { 
+    HandleScope scope; 
+  
+    Local<FunctionTemplate> t = FunctionTemplate::New(New); 
+  
+    s_ct = Persistent<FunctionTemplate>::New(t); 
+    s_ct->InstanceTemplate()->SetInternalFieldCount(1); 
+    s_ct->SetClassName(String::NewSymbol("HelloWorld")); 
+  
+    NODE_SET_PROTOTYPE_METHOD(s_ct, "hello", Hello); 
+  
+    target->Set(String::NewSymbol("HelloWorld"), 
+                s_ct->GetFunction()); 
+  } 
+
+在上面这个函数中target参数将是模块对象，即你的扩展将要载入的地方。（译著：这个函数将你的对象及其方法连接到这个模块对象，以便外界可以访问）首先我们为New方法创建一个FunctionTemplate，将于稍后解释。我们还为该对象添加一个内部字段，并命名为HelloWorld。然后使用NODE_SET_PROTOTYPE_METHOD宏将hello方法绑定到该对象。最后，一旦我们建立好这个函数模板后，将他分配给target对象的HelloWorld属性，将类暴露给用户。
+
+接下来的部分是一个标准的C++构造函数：
+
+HelloWorld() : 
+    m_count(0) 
+  { 
+  } 
+  
+  ~HelloWorld() 
+  { 
+  } 
+
+接下来，在::New 方法中V8引擎将调用这个简单的C++构造函数：
+
+static Handle<Value> New(const Arguments& args) 
+  { 
+    HandleScope scope; 
+    HelloWorld* hw = new HelloWorld(); 
+    hw->Wrap(args.This()); 
+    return args.This(); 
+  } 
+
+此段代码相当于上面Javascript代码中使用的构造函数。它调用new HelloWorld 创造了一个普通的C++对象，然后调用从ObjectWrap继承的Wrap方法， 它将一个C++HelloWorld类的引用保存到args.This()的值中。在包装完成后返回args.This()，整个函数的行为和javascript中的new运算符类似，返回this指向的对象。
+
+现在我们已经建立了对象，下面介绍在Init函数中被绑定到hello的函数：
+
+static Handle<Value> Hello(const Arguments& args) 
+  { 
+    HandleScope scope; 
+    HelloWorld* hw = ObjectWrap::Unwrap<HelloWorld>(args.This()); 
+    hw->m_count++; 
+    Local<String> result = String::New("Hello World"); 
+    return scope.Close(result); 
+  } 
+
+函数中首先使用ObjectWrap模板的方法提取出指向HelloWorld类的指针，然后和javascript版本的HelloWorld一样递增计数器。我们新建一个内容为“HelloWorld”的v8字符串对象，然后在关闭本地作用域的时候返回这个字符串。
+
+上面的代码实际上只是针对v8的接口，最终我们还需要让Node.js知道如何动态加载我们的代码。为了使Node.js的扩展可以在执行时从动态链接库加载，需要有一个dlsym函数可以识别的符号，所以执行编写如下代码：
+
+extern "C" { 
+  static void init (Handle<Object> target) 
+  { 
+    HelloWorld::Init(target); 
+  } 
+  
+  NODE_MODULE(helloworld, init); 
+} 
+
+由于c++的符号命名规则，我们使用extern C，以便该符号可以被dysym识别。init方法是Node.js加载模块后第一个调用的函数，如果你有多个类型，请全部在这里初始化。NODE_MODULE宏用来填充一个用于存储模块信息的结构体，存储的信息如模块使用的API版本。这些信息可以用来防止未来因API不兼容导致的崩溃。
+
+到此，我们已经完成了一个可用的C++ NodeJS扩展。
+
+Node.js也提供了一个用于构建模块的简单工具: node-waf首先编写一个包含扩展编译方法的wscript文件，然后执行node-waf configure && node-waf build完成模块的编译和链接工作。对于这个helloworld的例子来说，wscript内容如下：
+
+def set_options(opt): 
+  opt.tool_options("compiler_cxx") 
+  
+def configure(conf): 
+  conf.check_tool("compiler_cxx") 
+  conf.check_tool("node_addon") 
+  
+def build(bld): 
+  obj = bld.new_task_gen("cxx", "shlib", "node_addon") 
+  obj.cxxflags = ["-g", "-D_FILE_OFFSET_BITS=64", "-D_LARGEFILE_SOURCE", "-Wall"] 
+  obj.target = "helloworld" 
+  obj.source = "helloworld.cc" 
+
+异步IO的HelloWorld
+对于实际的应用来说，HelloWorld的示例太过简单了一些，Node.js主要的优势是提供异步IO。Node.js内部通过libeio将会产生阻塞的操作全都放入线程池中执行。如果需要和遗留的c库交互，通常需要使用异步IO来为javascript代码提供回调接口。
+
+通常的模式是提供一个回调，在异步操作完成时被调用——你可以在整个Node.js的API中看到这种模式。Node.js的filesystem模块提供了一个很好的例子，其中大多数的函数都在操作完成后通过调用回调函数来传递数据。和许多传统的GUI框架一样，Node.js只在主线程中执行JavaScript，因此主线程以外的任何操作都不应该直接和V8或Javascript交互。
+
+同样helloworld_eio.cc源代码在GitHub上 。我只强调和原来HelloWorld之间的差异，其中大部分代码保持不变，变化集中在Hello方法中：
+
+static Handle<Value> Hello(const Arguments& args) 
+  { 
+    HandleScope scope; 
+  
+    REQ_FUN_ARG(0, cb); 
+  
+    HelloWorldEio* hw = ObjectWrap::Unwrap<HelloWorldEio>(args.This()); 
+
+在Hello函数的入口处 ，我们使用宏从参数列表的第一个位置获取回调函数，在下一节中将详细介绍。然后，我们使用相同的Unwarp方法提取指向类对象的指针。
+
+hello_baton_t *baton = new hello_baton_t(); 
+baton->hw = hw; 
+baton->increment_by = 2; 
+baton->sleep_for = 1; 
+baton->cb = Persistent<Function>::New(cb); 
+
+这里我们创建一个baton结构，并将各种参数保存在里面。请注意，我们为回调函数创建了一个永久引用，因为我们想要在超出当前函数作用域的地方使用它。如果不这么做，在本函数结束后将无法再调用回调函数。
+
+hw->Ref(); 
+  
+    eio_custom(EIO_Hello, EIO_PRI_DEFAULT, EIO_AfterHello, baton); 
+    ev_ref(EV_DEFAULT_UC); 
+  
+    return Undefined(); 
+  } 
+
+如下代码是真正的重点。首先，我们增加HelloWorld对象的引用计数，这样在其他线程执行的时候他就不会被回收。函数eio_custom接受两个函数指针作为参数。EIO_Hello函数将在线程池中执行，然后EIO_AfterHello函数将回到在“主线程”中执行。我们的baton结构也被传递进各函数，这些函数可以使用baton结构中的数据完成相关的操作。同时，我们也增加event loop的引用。这很重要，因为如果event loop无事可做，Node.js就会退出。最终，函数返回Undefined，因为真正的工作将在其他线程中完成。
+
+static int EIO_Hello(eio_req *req) 
+{ 
+    hello_baton_t *baton = static_cast<hello_baton_t *>(req->data); 
+  
+    sleep(baton->sleep_for); 
+  
+    baton->hw->m_count += baton->increment_by; 
+  
+    return 0; 
+} 
+
+这个回调函数将在libeio管理的线程中执行。首先，解析出baton结构，这样可以访问之前设置的各种参数。然后sheep baton->sleep_for秒，这么做是安全的，因为这个函数运行在独立的线程中并不会阻塞主线程中javascript的执行。然后我们的增计数器，在实际的系统中，这些操作通常需要使用Lock/Mutex进行同步。
+
+当上述方法返回后，libeio将会通知主线程它需要在主线成上执行代码，此时EIO_AfterHello将会被调用。
+
+static int EIO_AfterHello(eio_req *req) 
+  { 
+    HandleScope scope; 
+    hello_baton_t *baton = static_cast<hello_baton_t *>(req->data); 
+    ev_unref(EV_DEFAULT_UC); 
+    baton->hw->Unref(); 
+
+进度此函数时，我们提取出baton结构，删除事件循环的引用，并减少HelloWorld对象的引用。
+
+Local<Value> argv[1]; 
+  
+    argv[0] = String::New("Hello World"); 
+  
+    TryCatch try_catch; 
+  
+    baton->cb->Call(Context::GetCurrent()->Global(), 1, argv); 
+  
+    if (try_catch.HasCaught()) { 
+      FatalException(try_catch); 
+    } 
+
+新建要传递给回调函数的字符串参数，并放入字符串数组中。然后我们调用回调传递一个参数，并检测可能抛出的异常。
+
+baton->cb.Dispose(); 
+  
+    delete baton; 
+    return 0; 
+  } 
+
+在执行过回调之后，应该销毁持久引用，然后删除之前创建的baton结构。
+
+最后，你可以使用如下形式在Javascript中使用该模块：
+
+var helloeio = require(‘./helloworld_eio’); 
+hi = new helloeio.HelloWorldEio(); 
+hi.hello(function(data){ 
+  console.log(data); 
+}); 
+
+参数传递与解析
+除了HelloWorld之外，你还需要理解最后一个问题：参数的处理。在helloWorld EIO例子中，我们使用一个REQ_FUN_ARG宏，然我们看看这个宏到底都做些什么。
+
+#define REQ_FUN_ARG(I, VAR)                                             \ 
+  if (args.Length() <= (I) || !args[I]->IsFunction())                   \ 
+    return ThrowException(Exception::TypeError(                         \ 
+                  String::New("Argument " #I " must be a function")));  \ 
+  Local<Function> VAR = Local<Function>::Cast(args[I]); 
+
+就像Javascript中的argument变量，v8使用数组传递所有的参数。由于没有严格的类型限制，所以传递给函数的参数数目可能和期待的不同。为了对用户友好，使用如下的宏检测一下参数数组的长度并判断参数是否是正确的类型。如果传递了错误的参数类型，该宏将会抛出TypeError异常。为简化参数的解析，目前为止大多数的Node.js扩展都有一些本地作用域内的宏，用于特定类型参数的检测。
+
+原文：https://www.cloudkick.com/blog/2010/aug/23/writing-nodejs-native-extensions/，译者：lishen
+
