@@ -86,7 +86,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 14. [Free stock photos · Pexels](https://www.pexels.com/)
 15. [responsive-web-design](https://alistapart.com/article/responsive-web-design/)
 1. [Sites with High Quality Photos You Can Use for Free](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
-1. []()
+1. [Web Design Dev - Graphic and Web Design Blog](https://www.webdesigndev.com/)
 1. []()
 1. []()
 1. []()
