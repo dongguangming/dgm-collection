@@ -1,4 +1,7 @@
+
 ###Node.js
+
+0. [nodejs本git库](https://github.com/dongguangming/dgm-collection/tree/master/others/node.js)
 1. [How to Install Yarn on CentOS 8](https://www.tecmint.com/install-yarn-on-centos-8/)
 1. [Nodejs学习路线图](http://www.nodejs.netscalable/a/20141016/232139.html "")
 1. [Export This: Interface Design Patterns(七种模式) for Node.js Modules](http://bites.goodeggs.com/posts/export-this/ "七种模式")
@@ -13,7 +16,10 @@
 3. [How to build a URL Shortener like bitly or shorturl using Node.js](https://dev.to/sachinsarawgi/url-shortner-with-limit-onclick-count-4maf)
 3. [Node Event Emitters — For Beginners and Experts](https://medium.com/developers-arena/nodejs-event-emitters-for-beginners-and-for-experts-591e3368fdd2)
 3. [Phases of the Node JS Event Loop](https://medium.com/@kunaltandon.kt/process-nexttick-vs-setimmediate-vs-settimeout-explained-wrt-different-event-loop-phases-c0506b12921d)
-3. []()
+3. [Twitter Interaction Circles: An Exercise Project with NodeJS, Canvas and API](https://blog.hackertyper.net/post/twitter-interaction-circles-guide/)
+3. [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+3. [Vue.js Authentication System with Node.js Backend](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/)
+3. [很好A Full Javascript Architecture, Part One - NodeJS](http://blog.zenika.com/index.php?post/2011/04/10/NodeJS)
 3. []()
 3. []()
 3. []()
