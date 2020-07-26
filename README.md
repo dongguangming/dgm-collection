@@ -5,6 +5,7 @@
 1. html(5)资料： https://github.com/dongguangming/dgm-collection/blob/master/html(5).md
 2. css(3)资料： https://github.com/dongguangming/dgm-collection/blob/master/css(3).md
 3. JavaScript资料： https://github.com/dongguangming/dgm-collection/blob/master/JavaScript.md
+3. Java资料： https://github.com/dongguangming/java
 3. Nodejs资料： https://github.com/dongguangming/dgm-collection/blob/master/node.js.md
 4. web-design资料： https://github.com/dongguangming/dgm-collection/blob/master/web-design.md
 5. Python资料： https://github.com/dongguangming/dgm-collection/blob/master/python.md
