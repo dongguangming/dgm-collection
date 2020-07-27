@@ -64,6 +64,20 @@
 ### ai
 1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
 2. [機器學習：使用Python](https://machine-learning-python.kspax.io/)
+1. [AI Chatbot with Python](https://thecleverprogrammer.com/2020/07/17/ai-chatbot-with-python/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### others
 0. [Python Programming Tutorials](https://pythonprogramming.net/)
