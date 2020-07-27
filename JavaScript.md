@@ -94,7 +94,7 @@
 3. [The Double-Bang (!!) Operator And A Misunderstanding Of How JavaScript Handles Truthy / Falsy Values](https://www.bennadel.com//blog/3858-the-double-bang-operator-and-a-misunderstanding-of-how-javascript-handles-truthy-falsy-values.htm)
 3. [JavaScript Performance Pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
 3. [JS1024 - Annual Javascript & Shader Code Golfing Competition - Main Page](https://js1024.fun/)
-3. []()
+3. [15 Vanilla JavaScript PROJECT IDEAS: BEGINNER TO EXPERT [WITH FREE TUTORIAL]](https://dev.to/nerdjfpb/15-vanilla-javascript-project-ideas-beginner-to-expert-with-free-tutorial-3c7a)
 3. []()
 3. []()
 3. []()
