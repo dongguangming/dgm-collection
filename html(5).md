@@ -81,7 +81,7 @@
 ### code
 1. [How to build a Custom HTML5 Video Player with JavaScript](https://freshman.tech/custom-html5-video/)
 1. [How Image Optimisation Decreased my Website's Page Weight by 62%](https://freshman.tech/image-optimisation/)
-1. []()
+1. [How To Use Before and After HTML Pseudo-elements Tutorial](https://www.codewall.co.uk/how-to-use-before-and-after-html-pseudo-elements-tutorial/)
 1. []()
 1. []()
 1. []()
