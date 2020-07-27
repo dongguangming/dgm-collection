@@ -71,6 +71,7 @@
 4. [GNU Make](https://www.gnu.org/software/make/manual/make.html "")
 3. [How does a CPU work?](https://milapneupane.com.np/2019/07/06/how-does-a-cpu-work/)
 3. [10 websites to visit as a software developer](https://milapneupane.com.np/2019/11/04/10-websites-to-visit-as-a-software-developer/)
+3. [My Favorite Free Courses to Become a Blockchain Developer in 2020](https://hackernoon.com/my-favorite-free-courses-to-become-a-blockchain-developer-in-2020-cvo3u0u)
 3. []()
 3. []()
 3. []()
@@ -78,9 +79,6 @@
 3. []()
 3. []()
 3. []()
-3. []()
-
-###其他
 3. [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
 3. [Capture IoT Devices Data Via RabbitMQ](https://dzone.com/articles/capture-iot-sensors-data-mqtt-protocol-rabbitmq-as)
 3. [RabbitMQ for IoT](https://funprojects.blog/2018/12/07/rabbitmq-for-iot/)
