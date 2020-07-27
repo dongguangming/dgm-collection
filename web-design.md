@@ -120,6 +120,13 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 2. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 3. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 4. [Improve Animated GIF Performance With HTML5 Video](https://www.smashingmagazine.com/2018/11/gif-to-video/)
+1. [A Technical SEO Guide to Lighthouse Performance Metrics](https://www.searchenginejournal.com/a-technical-seo-guide-to-lighthouse-performance-metrics/292703/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### 模板
 1. [TEMPLATED - Free CSS, HTML5 and Responsive Site Templates](https://templated.co/)
