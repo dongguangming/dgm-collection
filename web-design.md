@@ -48,7 +48,7 @@ A Beginner's Journey](http://www.elijahmanor.com/beginner-html5-javascript-jquer
 2. [How to Become A Front-end Developer (A Complete Practical Guide)很好](https://dev.to/syakirurahman/how-to-become-a-front-end-developer-a-complete-practial-guide-3nfb  "")
 2. [The Complete Web Developer in 2020](https://dev.to/codesandtags/the-complete-web-developer-in-2020-321a "")
 2. [Practical Advice for Front-End Web Development](https://medium.com/javascript-in-plain-english/practical-advice-for-front-end-web-development-8789b3c94289 "")
-2. []("")
+2. [50+ Free tools and resources to create awesome user interfaces](https://dev.to/cruip/50-free-tools-and-resources-to-create-awesome-user-interfaces-part-2-2l02 "")
 2. []("")
 2. []("")
 2. []("")
