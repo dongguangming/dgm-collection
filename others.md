@@ -57,7 +57,7 @@
 3. [How to Install Security Updates on CentOS 8](https://www.tecmint.com/install-security-updates-on-centos-8/)
 3. [How to Secure and Harden OpenSSH Server](https://www.tecmint.com/secure-openssh-server/)
 3. [How to Increase SSH Connection Timeout in Linux](https://www.tecmint.com/increase-ssh-connection-timeout/)
-3. []()
+3. [Customizing your shell](https://blog.balthazar-rouberol.com/customizing-your-shell.html)
 3. []()
 3. []()
 3. []()
