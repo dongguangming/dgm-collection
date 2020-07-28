@@ -88,7 +88,7 @@
 4. [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
 4. [Creating a Menu Image Animation on Hover](https://tympanus.net/codrops/2020/07/01/creating-a-menu-image-animation-on-hover/)
 4. [3 Popular Website Heroes Created With CSS Grid Layout](https://dev.to/5t3ph/3-popular-website-heroes-created-with-css-grid-layout-4fdl)
-4. []()
+4. [The Cicada Principle, revisited with CSS variables](https://lea.verou.me/2020/07/the-cicada-principle-revisited-with-css-variables/)
 4. []()
 4. []()
 4. []()
