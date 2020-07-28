@@ -237,7 +237,7 @@
 3. [A look at React Router 6](https://www.carlrippon.com/a-look-at-react-router-6/)
 3. [Four Ways to Fetch Data in React](https://www.bitnative.com/2020/07/06/four-ways-to-fetch-data-in-react/)
 3. [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react/)
-3. []()
+3. [15 React Interview Questions with Solutions](https://www.sitepoint.com/react-interview-questions-solutions/)
 3. []()
 3. []()
 3. []()
