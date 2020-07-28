@@ -95,7 +95,7 @@
 2. [How to Get Domain Name Information in Python](https://www.thepythoncode.com/article/extracting-domain-name-information-in-python)
 2. [Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
 1. [python-postgresql-tutorial](https://pynative.com/python-postgresql-tutorial/)
-1. []()
+1. [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 1. []()
 1. []()
 1. []()
