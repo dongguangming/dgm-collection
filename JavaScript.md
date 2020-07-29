@@ -109,7 +109,7 @@
 3. []()
 
 
-###JavaScript库
+### JavaScript库
 1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")
 2. [11 essential JavaScript tools for Web developers](http://www.itworld.com/article/2879027/javascript-11-essential-javascript-tools-for-web-developers.html "")
 2. [25 Highly Useful AngularJS Tools for Web Developers](http://devzum.com/2015/02/28/bestl-angularjs-tools/ "")
@@ -118,7 +118,7 @@
 4. [优秀的Meteor学习资源](http://www.csdn.net/article/1970-01-01/2815040 "")
 5. [Best Learning Resources for Meteor.js](https://www.yauh.de/articles/376/best-learning-resources-for-meteorjs/ "")
 
-###JavaScript Architecture
+### JavaScript Architecture
 1. [2015 年 JS 应用架构趋势](http://www.oschina.net/translate/javascript-application-architecture-on-the-road-to-2015 "")
 1. [JavaScript Application Architecture On The Road To 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b    "")
 2. [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/ "")
@@ -132,7 +132,7 @@
 8. [getting-to-know-flux-the-react-js-architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture "")
 9. [基于HTML5和Javascript的移动应用架构](http://www.infoq.com/cn/articles/mobile-architecture-html5-javascript "")
 
-###good javascript website
+### good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")
 3. [javascript.info](http://javascript.info/ "")
@@ -163,10 +163,10 @@
 3. [video.js](https://github.com/videojs/video.js)
 4. [pdf.js](https://github.com/mozilla/pdf.js/)
 
-###tools 
+### tools 
 1. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-###others
+### others
 0. [the-complete-javascript-handbook太棒了](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
@@ -252,7 +252,7 @@
 3. []()
 
 
-###Vue.js
+### Vue.js
 0. [Vue.js news ](https://news.vuejs.org/)
 0. [Vue.js Developers](https://vuejsdevelopers.com/)
 1. [Vue.js Examples](https://vuejsexamples.com/)
