@@ -64,6 +64,7 @@
 6. [An Overview of JavaScript Promises](http://www.sitepoint.com/overview-javascript-promises/ "")
 3. [JavaScript异步编程的Promise模式](http://www.infoq.com/cn/news/2011/09/js-promise "")
 4. [Five Patterns to Help You Tame Asynchronous JavaScript](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript "")
+4. [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
 2. [15 JavaScript Tools to Improve Your Coding Skills](http://codegeekz.com/javascript-tools/ "")
 3. [JavaScript-Module-Pattern-In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html "")
 4. [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/"")
@@ -95,7 +96,7 @@
 3. [JavaScript Performance Pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
 3. [JS1024 - Annual Javascript & Shader Code Golfing Competition - Main Page](https://js1024.fun/)
 3. [15 Vanilla JavaScript PROJECT IDEAS: BEGINNER TO EXPERT [WITH FREE TUTORIAL]](https://dev.to/nerdjfpb/15-vanilla-javascript-project-ideas-beginner-to-expert-with-free-tutorial-3c7a)
-3. []()
+3. [127 Useful JavaScript Snippets You can understand in 30 seconds](https://morioh.com/p/a76bc7d72226?f=5c21f93bc16e2556b555ab2f)
 3. [The Complete JavaScript Handbook](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 3. []()
 3. []()
@@ -108,7 +109,7 @@
 3. []()
 
 
-###JavaScript库
+### JavaScript库
 1. [25 个超棒的 HTML5 & JavaScript 游戏引擎开发库](http://www.oschina.net/translate/25-best-html5-javascript-game-engine-libraries-for-developers "")
 2. [11 essential JavaScript tools for Web developers](http://www.itworld.com/article/2879027/javascript-11-essential-javascript-tools-for-web-developers.html "")
 2. [25 Highly Useful AngularJS Tools for Web Developers](http://devzum.com/2015/02/28/bestl-angularjs-tools/ "")
@@ -117,7 +118,7 @@
 4. [优秀的Meteor学习资源](http://www.csdn.net/article/1970-01-01/2815040 "")
 5. [Best Learning Resources for Meteor.js](https://www.yauh.de/articles/376/best-learning-resources-for-meteorjs/ "")
 
-###JavaScript Architecture
+### JavaScript Architecture
 1. [2015 年 JS 应用架构趋势](http://www.oschina.net/translate/javascript-application-architecture-on-the-road-to-2015 "")
 1. [JavaScript Application Architecture On The Road To 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b    "")
 2. [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/ "")
@@ -131,7 +132,7 @@
 8. [getting-to-know-flux-the-react-js-architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture "")
 9. [基于HTML5和Javascript的移动应用架构](http://www.infoq.com/cn/articles/mobile-architecture-html5-javascript "")
 
-###good javascript website
+### good javascript website
 1. [JavaScript-Garden（JavaScript秘密花园）](http://bonsaiden.github.io/JavaScript-Garden/ "javascript 秘密花园")
 2. [dailyjs](http://dailyjs.com/ "")
 3. [javascript.info](http://javascript.info/ "")
@@ -162,10 +163,10 @@
 3. [video.js](https://github.com/videojs/video.js)
 4. [pdf.js](https://github.com/mozilla/pdf.js/)
 
-###tools 
+### tools 
 1. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-###others
+### others
 0. [the-complete-javascript-handbook太棒了](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 1. [JavaScript regular expressions cheatsheet and examples](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 2. [top 70 javascript questions](https://codequs.com/p/ByBBboqNL/top-70-javascript-interview-questions-answers-you-must-prepare-in-2020/)
@@ -189,7 +190,7 @@
 3. []()
 3. []()
 
-###AngularJS
+### AngularJS
 3. [Build a YouTube video search app with Angular and RxJS](https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/)
 3. []()
 3. []()
@@ -218,7 +219,7 @@
 3. []()
 3. []()
 
-###React.js
+### React.js
 1. [30 React Apps](https://dev.to/hemantt/30-react-apps-4hn9)
 2. [how-to-use-reactjs-with-webpack-4-babel-7-and-material-design](https://medium.com/free-code-camp/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618)
 3. [35+ Free React templates and themes](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
@@ -238,7 +239,7 @@
 3. [Four Ways to Fetch Data in React](https://www.bitnative.com/2020/07/06/four-ways-to-fetch-data-in-react/)
 3. [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react/)
 3. [15 React Interview Questions with Solutions](https://www.sitepoint.com/react-interview-questions-solutions/)
-3. []()
+3. [how-to-make-your-own-no-template-personal-website-with-react-material-ui-and-netlify](https://dev.to/sylviapap/how-to-make-your-own-no-template-personal-website-with-react-material-ui-and-netlify-pij)
 3. []()
 3. []()
 3. []()
@@ -251,7 +252,7 @@
 3. []()
 
 
-###Vue.js
+### Vue.js
 0. [Vue.js news ](https://news.vuejs.org/)
 0. [Vue.js Developers](https://vuejsdevelopers.com/)
 1. [Vue.js Examples](https://vuejsexamples.com/)
@@ -317,8 +318,8 @@
 1. [The Vue 3 Composition API - Getting Started](https://www.grapecity.com/blogs/getting-started-with-vue-3-composition-api)
 1. [Vue.js + Firebase: Role-Based Authentication & Authorization](https://softauthor.com/vue-js-firebase-role-based-authentication/)
 1. [Creating a RabbitMQ Consumer in JavaScript](https://www.devmashup.com/creating-a-rabbitmq-consumer-in-javascript/)
-1. []()
-1. []()
+1. [2020年後半版Vue.js](https://qiita.com/kahirokunn/items/b4f3ede5b2eb94711880?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=18a6ac0d31-Qiita_newsletter_420_07_22_2020&utm_medium=email&utm_term=0_e44feaa081-18a6ac0d31-33131281)
+1. [tutorial-build-an-instagram-clone-with-vue-js-and-cssgram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 1. []()
 1. []()
 1. []()
