@@ -191,6 +191,7 @@
 3. []()
 
 ### AngularJS
+0. [AngularJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/angularJS)
 3. [Build a YouTube video search app with Angular and RxJS](https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/)
 3. []()
 3. []()
@@ -220,6 +221,7 @@
 3. []()
 
 ### React.js
+0. [ReactJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/reactjs)
 1. [30 React Apps](https://dev.to/hemantt/30-react-apps-4hn9)
 2. [how-to-use-reactjs-with-webpack-4-babel-7-and-material-design](https://medium.com/free-code-camp/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618)
 3. [35+ Free React templates and themes](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
@@ -253,6 +255,7 @@
 
 
 ### Vue.js
+0. [VueJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/vuejs)
 0. [Vue.js news ](https://news.vuejs.org/)
 0. [Vue.js Developers](https://vuejsdevelopers.com/)
 1. [Vue.js Examples](https://vuejsexamples.com/)
