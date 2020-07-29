@@ -96,7 +96,7 @@
 3. [JavaScript Performance Pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
 3. [JS1024 - Annual Javascript & Shader Code Golfing Competition - Main Page](https://js1024.fun/)
 3. [15 Vanilla JavaScript PROJECT IDEAS: BEGINNER TO EXPERT [WITH FREE TUTORIAL]](https://dev.to/nerdjfpb/15-vanilla-javascript-project-ideas-beginner-to-expert-with-free-tutorial-3c7a)
-3. []()
+3. [127 Useful JavaScript Snippets You can understand in 30 seconds](https://morioh.com/p/a76bc7d72226?f=5c21f93bc16e2556b555ab2f)
 3. [The Complete JavaScript Handbook](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 3. []()
 3. []()
