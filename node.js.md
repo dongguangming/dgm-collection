@@ -29,7 +29,7 @@
 3. [Asynchronous Microservices with RabbitMQ and Node.js](https://manifold.co/blog/asynchronous-microservices-with-rabbitmq-and-node-js)
 3. [Using RabbitMQ and AMQP for Distributed Work Queues in Node.js](https://www.yld.io/blog/using-rabbitmq-and-amqp-for-distributed-work-queues-in-node-js/)
 3. [How to Use Node, a Raspberry Pi, and an LCD Screen to Monitor the Weather](https://www.freecodecamp.org/news/monitor-the-weather-with-node-and-raspberry-pi/)
-3. []()
+3. [node architecture](https://www.programminghunk.com/2020/04/node-architecture.html?m=1)
 3. []()
 3. []()
 3. []()
