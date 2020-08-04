@@ -76,7 +76,7 @@
 1. [FREE Online Courses in Data Science from Harvard University](https://morioh.com/p/835a4bd13377?f=5ece1a68f0e6056e36305f65)
 1. [Free Book: A Comprehensive Guide to Machine Learning (Berkeley University)](https://www.datasciencecentral.com/profiles/blogs/free-book-a-comprehensive-guide-to-machine-learning-berkeley)
 1. [Best Machine Learning Resources for Getting Started](https://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
-1. []()
+1. [Building an offline video classifier for human actions with Core ML](https://lukereichold.com/blog/posts/video-action-classification-coreml/)
 1. []()
 1. []()
 1. []()
