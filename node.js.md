@@ -42,7 +42,6 @@
 3. [How to Use Node, a Raspberry Pi, and an LCD Screen to Monitor the Weather](https://www.freecodecamp.org/news/monitor-the-weather-with-node-and-raspberry-pi/)
 3. [node architecture](https://www.programminghunk.com/2020/04/node-architecture.html?m=1)
 3. [Build a Zoom Clone with Node JS for Beginners](https://morioh.com/p/1661b2e13e57?f=5c224490c513a556c9042463)
-3. [How to Gain a Computer Science Education from MIT University for FREE](https://laconicml.com/computer-science-engineer-mit-university/)
 3. []()
 3. []()
 3. []()
