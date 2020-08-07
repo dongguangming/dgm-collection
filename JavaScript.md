@@ -155,7 +155,6 @@
 3. []()
 3. []()
 3. []()
-3. []()
 
 ### javascript lib
 1. [fullpage.js](https://github.com/alvarotrigo/fullPage.js)
@@ -192,10 +191,12 @@
 
 ### AngularJS
 0. [AngularJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/angularJS)
+3. [in Depth dev](https://indepth.dev/)
 1. [/angular 10 crud app](https://bezkoder.com/angular-10-crud-app/)
 3. [Build a YouTube video search app with Angular and RxJS](https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/)
 3. [50+ Top Angular Interview Questions and Answers](https://dzone.com/articles/50-top-angular-interview-questions-amp-answers?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_335)
 3. [Angular Development: Top 10 Best Practices to Follow](https://tekkiwebsolutions.com/blog/best-practices-for-angular-development/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_335)
+3. [The 10 best Angular tips selected by the community](https://indepth.dev/best-angular-tips/)
 3. [Angular vs. React vs. Vue.js – choosing a JavaScript framework for your project](https://relevant.software/blog/angular-vs-react-vs-vue-js-choosing-a-javascript-framework-for-your-project/)
 3. []()
 3. []()
