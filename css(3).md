@@ -48,6 +48,7 @@
 2. [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/?ref=devawesome.io)
 3. [Building a hexagonal grid using CSS grid 超酷炫](https://ninjarockstar.dev/css-hex-grids/)
 4. [Creating Layouts with CSS Grid](https://www.sitepoint.com/creating-css-grid-layouts/)
+4. [Deep Dive into CSS Grid](https://scotch.io/tutorials/deep-dive-into-css-grid-2)
 4. [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 4. [The Best Way to Learn CSS](https://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
 4. [Upcoming Material Design CSS library – a Twitter Bootstrap killer?](http://materialdesignblog.com/upcoming-material-design-css-library-a-twitter-bootstrap-killer/)
