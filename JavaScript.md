@@ -41,6 +41,7 @@
 2. [AMD is better for the web than CommonJS modules](http://blog.millermedeiros.com/amd-is-better-for-the-web-than-commonjs-modules/ "")
 3. [Javascript Modules, AMD, and the road ahead.](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead "")
 4. [ES6 Modules, AMD and CommonJS](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0 "")
+4. [Introduction ES6 features improve your JavaScript code](https://morioh.com/p/96f0b7dc0206?f=5c21fb01c16e2556b555ab32)
 5. [It's Not Hard: Making Your Library Support AMD and CommonJS](http://ifandelse.com/its-not-hard-making-your-library-support-amd-and-commonjs/ "")
 3. [Toward JavaScript Standards: CommonJS and AMD](http://www.cubrid.org/blog/dev-platform/toward-javascript-standards-commonjs-and-amd/ "")
 4. [What Is AMD, CommonJS, and UMD?](http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/ "")
