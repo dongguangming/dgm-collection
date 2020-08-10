@@ -11,6 +11,7 @@
 3. [Creating a Node gRPC Service Using Mali](https://auth0.com/blog/creating-a-node-grpc-service-using-mali/)
 3. [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 3. [A deep dive into queues in Node.js](https://blog.logrocket.com/a-deep-dive-into-queues-in-node-js/)
+3. [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fredfin.engineering%2Fnode-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 3. [Nodejs event loop architecture](https://medium.com/preezma/node-js-event-loop-architecture-go-deeper-node-core-c96b4cec7aa4)
 3. [Learn Node.js and MongoDB by building a URL Shortener app](https://freshman.tech/url-shortener/)
 3. [How to build a URL Shortener like bitly or shorturl using Node.js](https://dev.to/sachinsarawgi/url-shortner-with-limit-onclick-count-4maf)
