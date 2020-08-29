@@ -230,6 +230,7 @@
 3. [35+ Free React templates and themes](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
 3. [Resources for learning React](https://dev.to/devtghosh/resources-for-learning-react-3a0b)
 3. [A collection to learn React Hooks!](https://dev.to/nialljoemaher/a-collection-to-learn-react-hooks-da1)
+3. [Best Practices With React Hooks](https://www.smashingmagazine.com/2020/04/react-hooks-best-practices/)
 3. [6 STUNNING REACT.JS PROJECT IDEAS](https://flatlogic.com/blog/6-stunning-react-js-project-ideas/?ck_subscriber_id=887777019)
 3. [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 3. 
@@ -247,7 +248,7 @@
 3. [how-to-make-your-own-no-template-personal-website-with-react-material-ui-and-netlify](https://dev.to/sylviapap/how-to-make-your-own-no-template-personal-website-with-react-material-ui-and-netlify-pij)
 3. [I created the exact same app in React and Vue. Here are the differences.](https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition)
 3. [Angular vs. React vs. Vue.js – choosing a JavaScript framework for your project](https://relevant.software/blog/angular-vs-react-vs-vue-js-choosing-a-javascript-framework-for-your-project/)
-3. []()
+3. [Using Mobx As A State Manager In React Native Applications](https://www.smashingmagazine.com/2020/08/mobx-state-manager-react-native-applications/)
 3. []()
 3. []()
 3. []()
