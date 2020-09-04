@@ -84,7 +84,7 @@
 1. [How to Predict Stock Prices in Python using TensorFlow 2 and Keras](https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras)
 1. [How To Cartoonize a Live Video Footage Using Computer Vision](https://laconicml.com/cartoonize-video-footage/)
 3. [How to Gain a Computer Science Education from MIT University for FREE](https://laconicml.com/computer-science-engineer-mit-university/)
-1. []()
+1. [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 1. []()
 1. []()
 1. []()
