@@ -88,7 +88,7 @@
 1. [Building a Face Detection Model from Video using Deep Learning (Python Implementation)](https://www.analyticsvidhya.com/blog/2018/12/introduction-face-detection-video-deep-learning-python/)
 1. [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
 1. [Understanding and Building an Object Detection Model from Scratch in Python](https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/)
-1. []()
+1. [Deep Learning on Graphs (a Tutorial)](https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/)
 1. []()
 1. []()
 1. []()
