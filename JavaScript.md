@@ -338,7 +338,7 @@
 1. [Angular vs. React vs. Vue.js – choosing a JavaScript framework for your project](https://relevant.software/blog/angular-vs-react-vs-vue-js-choosing-a-javascript-framework-for-your-project/)
 1. [9 Best Vue Player/Video Player Components for Your App](https://morioh.com/p/23feeff55563?f=5c21fb01c16e2556b555ab32)
 1. [Separating UI and Business Logic in Vue Components](https://vuejs-course.com/blog/separating-ui-and-business-logic-in-vue-components)
-1. []()
+1. [Build a Shopping List App with the Vue 3.0 Composition API](https://www.sitepoint.com/building-a-shopping-list-app-with-the-vue-composition-api/)
 1. []()
 1. []()
 1. []()
