@@ -224,6 +224,7 @@
 3. []()
 
 ### React.js
+0. [Why I Love React](https://epicreact.dev/why-i-love-react/)
 0. [ReactJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/reactjs)
 1. [30 React Apps](https://dev.to/hemantt/30-react-apps-4hn9)
 2. [how-to-use-reactjs-with-webpack-4-babel-7-and-material-design](https://medium.com/free-code-camp/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618)
