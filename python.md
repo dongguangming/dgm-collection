@@ -65,6 +65,7 @@
 ### 机器学习 深度学习 人工智能
 1. [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course)
 1. [端到端的开源机器学习平台](https://tensorflow.google.cn/)
+1. [Machine Learning Is Fun!](https://www.machinelearningisfun.com/)
 1. [70+ Machine Learning Datasets & Project Ideas – Work on real-time Data Science projects](https://data-flair.training/blogs/machine-learning-datasets/?fbclid=IwAR05nPt9beVkpgj3nNj-Ja0zT6Wq9lrtc95RLoZ1gr4wHy14V8Z9w-C_-3E)
 1. [Transfer Learning with TensorFlow 2](https://www.codeproject.com/Articles/5252014/Transfer-Learning-with-TensorFlow-2)
 2. [機器學習：使用Python](https://machine-learning-python.kspax.io/)
