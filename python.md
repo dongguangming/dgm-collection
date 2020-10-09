@@ -93,7 +93,7 @@
 1. [Deep Learning on Graphs (a Tutorial)](https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/)
 1. [How to Perform Face Detection with Deep Learning](https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/)
 1. [Deep Learning Tutorial to Calculate the Screen Time of Actors in any Video (with Python codes)](https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/)
-1. []()
+1. [Building a Complete AI Based Search Engine with Elasticsearch, Kubeflow and Katib](https://towardsdatascience.com/building-a-complete-ai-based-search-engine-with-elasticsearch-kubeflow-and-katib-590c7b27eb8f)
 1. []()
 1. []()
 1. []()
