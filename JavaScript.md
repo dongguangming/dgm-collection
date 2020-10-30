@@ -100,7 +100,7 @@
 3. [127 Useful JavaScript Snippets You can understand in 30 seconds](https://morioh.com/p/a76bc7d72226?f=5c21f93bc16e2556b555ab2f)
 3. [The Complete JavaScript Handbook](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 3. [The Difference of “var” vs “let” vs “const” in Javascript](https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66)
-3. []()
+3. [var vs let vs const in JavaScript](https://ui.dev/var-let-const/)
 3. []()
 3. []()
 3. []()
