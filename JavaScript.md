@@ -101,7 +101,7 @@
 3. [The Complete JavaScript Handbook](https://medium.com/free-code-camp/the-complete-javascript-handbook-f26b2c71719c)
 3. [The Difference of “var” vs “let” vs “const” in Javascript](https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66)
 3. [var vs let vs const in JavaScript](https://ui.dev/var-let-const/)
-3. []()
+3. [20 JavaScript Shorthand Techniques that will save your time](https://medium.com/javascript-in-plain-english/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f)
 3. []()
 3. []()
 3. []()
