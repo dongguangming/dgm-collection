@@ -108,6 +108,23 @@
 3. [The "this" binding in JavaScript](https://blog.bitsrc.io/mastering-javascript-es6-symbols-6453da3bd46c)
 3. [Mastering JavaScript ES6 Symbols](https://blog.bitsrc.io/mastering-javascript-es6-symbols-6453da3bd46c)
 3. [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
+3. [How to sort an array of objects in JavaScript](https://www.educative.io/edpresso/how-to-sort-an-array-of-objects-in-javascript)
+3. [Quick Tip: How to Sort an Array of Objects in JavaScript](https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/)
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+3. []()
+
 
 
 ### JavaScript库
