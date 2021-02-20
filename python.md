@@ -123,7 +123,7 @@
 1. [How to Use Github API in Python](https://www.thepythoncode.com/article/using-github-api-in-python)
 1. [Introduction to Finance and Technical Indicators with Python](https://www.thepythoncode.com/article/introduction-to-finance-and-technical-indicators-with-python)
 1. [How to Get Geolocation in Python](https://www.thepythoncode.com/article/get-geolocation-in-python?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter)
-1. []()
+1. [How to Use Gmail API in Python](https://www.thepythoncode.com/article/use-gmail-api-in-python)
 1. []()
 1. []()
 1. []()
