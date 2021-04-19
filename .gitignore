@@ -11,6 +11,10 @@ target
 .idea
 *.iml
 *.swp
+*.exe
+*.cpp
+*.dll
+*.csf
 datanucleus.log
 /bin/
 /bin/
@@ -45,3 +49,4 @@ ios
 ÉÌÒµ
 /å•†ä¸š
 /others/others
+/Web/web_design/jb51.net

@@ -85,7 +85,7 @@
 1. [How to Create a Chrome Extension - thecodingpie](https://thecodingpie.com/post/how-to-create-a-chrome-extension-thecodingpie/)
 1. [Form design](https://gerireid.com/forms.html)
 1. [HTML5 Canvas: Lunch Wheel](https://blog.bramp.net/post/2011/07/27/html5-canvas-lunch-wheel/)
-1. []()
+1. [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/#dark-mode-in-gmail-and-outlook)
 1. []()
 1. []()
 1. []()

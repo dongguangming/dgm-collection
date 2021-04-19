@@ -275,7 +275,11 @@
 3. [How To Build a Photo Search App with React Using the Unsplash API](https://www.digitalocean.com/community/tutorials/how-to-build-a-photo-search-app-with-react-using-the-unsplash-api)
 3. [A Complete Beginner’s Guide to React](https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc349c)
 4. [A Practical Guide To Product Tours In React Apps](https://www.smashingmagazine.com/2020/08/guide-product-tours-react-apps/)
-
+4. [React & Redux Tutorial—Build a Hacker News Clone](http://brianyang.com/react-redux-tutorial-build-a-hacker-news-clone/)
+5. []()
+6. []()
+7. []()
+8. 
 
 ### Vue.js
 0. [VueJS Ebook](https://github.com/dongguangming/dgm-collection/tree/master/Web/vuejs)
@@ -367,7 +371,7 @@
 1. [Mobile-friendly List Scroller For Vue](https://morioh.com/p/baeba569aac1?f=5c492728f538881a2158699f)
 1. [Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)](https://www.bacancytechnology.com/blog/top-12-vue-js-developer-tools-and-component-libraries?amp=1)
 1. [21 Amazing VueJs Projects that are OpenSource and Free](https://www.bacancytechnology.com/blog/top-21-amazing-vuejs-projects?amp=1)
-1. []()
+1. [Let's Build: a 2-hr YouTube clone](https://transloadit.com/blog/2018/12/2h-youtube-clone/)
 1. []()
 1. []()
 1. []()
